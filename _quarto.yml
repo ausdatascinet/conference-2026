@@ -2,12 +2,33 @@ project:
   type: website
 
 website:
-  title: "ADSN 2026"
+  title: "ADSN2026"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - text: Program
+        menu: 
+          - text: Schedule
+            href: schedule.qmd
+          - text: Keynotes
+            href: keynotes.qmd
+          - text: Abstract Submission
+            href: abstract.qmd
+          - text: Sponsorship
+            href: sponsor.qmd
+      - text: Participation
+        menu: 
+          - text: Registration
+            href: registration.qmd
+          - text: "Location and Accommodation"
+            href: accommodation.qmd
+      - text: About
+        menu: 
+          - text: Organisers
+            href: organisers.qmd
+          - text: "Code of Conduct"
+            href: codeofconduct.qmd
 
 format:
   html:
