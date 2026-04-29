@@ -5,8 +5,6 @@ website:
   title: "ADSN2026"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - text: Program
         menu: 
           - text: Schedule
