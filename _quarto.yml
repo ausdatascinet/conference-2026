@@ -16,7 +16,7 @@ website:
           - text: Abstract Submission
             href: abstract.qmd
           - text: Sponsorship
-            href: sponsor.qmd
+            href: sponsors.qmd
       - text: Participation
         menu: 
           - text: Registration
