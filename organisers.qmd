@@ -1,3 +1,24 @@
 ---
-title: "Organising Committee "
+title: "Organising Committee"
 ---
+
+## Local organising committee
+
+::: {.columns}
+:::: {.column .organisers width=45%}
+![](img/ben.png){.avatar}
+
+Ben Harrap
+
+Committee Chair
+::::
+:::: {.column .organisers width=10%}
+::::
+:::: {.column .organisers width=45%}
+
+::::
+:::
+
+## Scientific programming committee
+
+## Web team

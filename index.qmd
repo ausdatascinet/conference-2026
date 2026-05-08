@@ -1,5 +1,28 @@
 ---
-title: "ADSN 2026"
+title: "Australian Data Science Network Conference 2026"
+subtitle: 26th & 27th November 2026, Canberra, Australia
+description: "Australian Bureau of Statistics House"
 ---
 
-Date and Location
+:::{.column-screen style="font-size: 0.7em; color: #adadad;"}
+![](img/canberra.jpg)
+Copyright [JJ Harrison](https://www.jjharrison.com.au/){style="color: #adadad;"}
+:::
+
+## Sponsors
+
+::: {.columns}
+:::: {.column width=25%}
+![](img/abs.png){}
+::::
+:::: {.column width=25%}
+![](img/ssa.png)
+::::
+:::
+
+Want to find out more about sponsoring the conference? Head over to the [sponsorship page](/sponsors.qmd).
+
+## 🗝️ Key information
+
+- Abstract submissions opening soon
+- Conference will be held at ABS House in Belconnen
