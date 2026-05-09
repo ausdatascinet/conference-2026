@@ -25,8 +25,8 @@ website:
         menu: 
           - text: Organisers
             href: organisers.qmd
-          - text: "Code of Conduct"
-            href: codeofconduct.qmd
+          # - text: "Code of Conduct"
+          #   href: codeofconduct.qmd
     tools:
     - icon: github
       url: https://github.com/ausdatascinet/conference-2026
@@ -36,6 +36,7 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    link-external-newwindow: true
 
 editor: visual
 

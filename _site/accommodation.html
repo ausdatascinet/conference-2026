@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.27">
+<meta name="generator" content="quarto-1.7.31">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -32,15 +32,14 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-5b4ad623e5705c0698d39aec6f10cf02.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-c1fac2584b48ed01fb6e278e36375074.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -133,10 +132,6 @@ ul.task-list li input[type="checkbox"] {
     <a class="dropdown-item" href="./organisers.html">
  <span class="dropdown-text">Organisers</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./codeofconduct.html">
- <span class="dropdown-text">Code of Conduct</span></a>
-  </li>  
     </ul>
   </li>
 </ul>
@@ -151,8 +146,19 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#location" id="toc-location" class="nav-link active" data-scroll-target="#location">Location</a>
+  <ul class="collapse">
+  <li><a href="#driving" id="toc-driving" class="nav-link" data-scroll-target="#driving">Driving</a></li>
+  <li><a href="#public-transport" id="toc-public-transport" class="nav-link" data-scroll-target="#public-transport">Public transport</a></li>
+  <li><a href="#other-travel" id="toc-other-travel" class="nav-link" data-scroll-target="#other-travel">Other travel</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -176,8 +182,27 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<p><a href="https://maps.app.goo.gl/75UtffBe8zZ27KWS8">ABS House</a> is in Belconnen, Canberra.</p>
+<section id="driving" class="level3">
+<h3 class="anchored" data-anchor-id="driving">Driving</h3>
+<p>The conference venue is a 10-minute drive from the CBD or a 20-minute drive from the Canberra Airport.</p>
+<p>There are many car parks nearby, including at the Westfield Shopping Centre.</p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3258.6292673979387!2d149.06548607525264!3d-35.240597774234956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sparking!5e0!3m2!1sen!2sau!4v1778331551199!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+</section>
+<section id="public-transport" class="level3">
+<h3 class="anchored" data-anchor-id="public-transport">Public transport</h3>
+<p>If you’re staying in the Canberra CBD area, you can catch routes 2, 3, 4, 5, and 6 from Alinga Street to the Belconnen Bus Interchange. ABS House is just around the corner. To use public transport in Canberra you can simply tap on with a Visa or Mastercard card or use a MyWay+ card or the app.</p>
+</section>
+<section id="other-travel" class="level3">
+<h3 class="anchored" data-anchor-id="other-travel">Other travel</h3>
+<p>E-bikes and e-scooters are available through Lime Micromobility, but we wouldn’t recommend scooting from the CBD!</p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -231,14 +256,13 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-      const outerScaffold = trigger.parentElement.cloneNode(true);
-      const codeEl = outerScaffold.querySelector('code');
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
         }
-      }
-      return codeEl.innerText;
+        return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -267,6 +291,11 @@ ul.task-list li input[type="checkbox"] {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

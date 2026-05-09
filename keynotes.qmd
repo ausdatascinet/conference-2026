@@ -2,4 +2,4 @@
 title: "Keynotes"
 ---
 
-Details coming soon!
+Stay tuned for keynote announcements! Follow the [ADSN on LinkedIn](https://www.linkedin.com/company/australiandata/) or [subscribe to the newsletter](https://australiandatascience.net/subscribe-to-newsletter/).
