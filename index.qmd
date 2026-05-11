@@ -1,32 +1,25 @@
 ---
 title: "Australian Data Science Network Conference 2026"
-subtitle: "*From data to decisions*"
+subtitle: "*From Data to Decisions*"
 description: "26th & 27th November 2026, Australian Bureau of Statistics House, Canberra"
 ---
 
 ::: {.column-screen style="font-size: 0.7em; color: #adadad;"}
-![](img/canberra.jpg) Copyright [JJ Harrison](https://www.jjharrison.com.au/){style="color: #adadad;"}
+![](img/canberra.jpg){style="min-width: 100%;"} Copyright [JJ Harrison](https://www.jjharrison.com.au/){style="color: #adadad;"}
 :::
 
-Join us in the nation's capital for the annual Australian Data Science Network Conference. This year's theme is *From data to decisions*, which focuses on impactful data science that informs decisions, changes minds, and shapes policy.
+Join us in the nation's capital for the annual Australian Data Science Network Conference. This year's theme is *From Data to Decisions*, which focuses on impactful data science that informs decisions, changes minds, and shapes policy.
 
 ## Sponsors
 
-::::: columns
-::: {.column width="25%"}
-![](img/abs.png)
-:::
-
-::: {.column width="25%"}
-![](img/ssa.png)
-:::
-:::::
+![](img/abs.png){.sponsor-logo}
+![](img/ssa.png){.sponsor-logo}
 
 Want to find out more about sponsoring the conference? Head over to the [sponsorship page](/sponsors.qmd).
 
 ## Key information
 
-- Conference will be held over the 26th & 27th of November, at ABS House in Belconnen, Canberra
-- Each day will be a single stream
-- Abstract submissions opening soon
-- Social program to be announced
+-   Conference will be held over the 26th & 27th of November, at ABS House in Belconnen, Canberra
+-   Each day will be a single stream
+-   Abstract submissions opening soon
+-   Social program to be announced

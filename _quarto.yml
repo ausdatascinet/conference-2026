@@ -6,19 +6,13 @@ website:
   navbar:
     left:
       - text: Program
-        menu: 
-          - text: Keynotes
-            href: keynotes.qmd
-          # - text: Schedule
-          #   href: schedule.qmd
-          - text: Abstract Submission
-            href: abstract.qmd
-      - text: Participation
-        menu: 
-          - text: Registration
-            href: registration.qmd
-          - text: "Location and Accommodation"
-            href: accommodation.qmd
+        href: program.qmd
+      - text: Destination
+        href: destination.qmd
+      - text: Abstract Submission
+        href: abstract.qmd
+      - text: Registration
+        href: registration.qmd
       - text: Sponsorship
         href: sponsors.qmd
       - text: About
@@ -37,6 +31,10 @@ format:
     css: styles.css
     toc: true
     link-external-newwindow: true
+    grid:
+      sidebar-width: 300px
+      body-width: 1000px
+      margin-width: 200px
 
 editor: visual
 

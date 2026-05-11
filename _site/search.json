@@ -1,82 +1,5 @@
 [
   {
-    "objectID": "registration.html",
-    "href": "registration.html",
-    "title": "Registration",
-    "section": "",
-    "text": "Registration details coming soon! Follow the ADSN on LinkedIn or subscribe to the newsletter to stay up-to-date."
-  },
-  {
-    "objectID": "accommodation.html",
-    "href": "accommodation.html",
-    "title": "Location and accommodation",
-    "section": "",
-    "text": "ABS House is in Belconnen, Canberra.\n\n\nThe conference venue is a 10-minute drive from the CBD or a 20-minute drive from the Canberra Airport.\nThere are many car parks nearby, including at the Westfield Shopping Centre.\n\n\n\n\n\nIf you’re staying in the Canberra CBD area, you can catch routes 2, 3, 4, 5, and 6 from Alinga Street to the Belconnen Bus Interchange. ABS House is just around the corner. To use public transport in Canberra you can simply tap on with a Visa or Mastercard card or use a MyWay+ card or the app.\n\n\n\nE-bikes and e-scooters are available through Lime Micromobility, but we wouldn’t recommend scooting from the CBD!"
-  },
-  {
-    "objectID": "accommodation.html#location",
-    "href": "accommodation.html#location",
-    "title": "Location and accommodation",
-    "section": "",
-    "text": "ABS House is in Belconnen, Canberra.\n\n\nThe conference venue is a 10-minute drive from the CBD or a 20-minute drive from the Canberra Airport.\nThere are many car parks nearby, including at the Westfield Shopping Centre.\n\n\n\n\n\nIf you’re staying in the Canberra CBD area, you can catch routes 2, 3, 4, 5, and 6 from Alinga Street to the Belconnen Bus Interchange. ABS House is just around the corner. To use public transport in Canberra you can simply tap on with a Visa or Mastercard card or use a MyWay+ card or the app.\n\n\n\nE-bikes and e-scooters are available through Lime Micromobility, but we wouldn’t recommend scooting from the CBD!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Australian Data Science Network Conference 2026",
-    "section": "",
-    "text": "Copyright JJ Harrison\nJoin us in the nation’s capital for the annual Australian Data Science Network Conference. This year’s theme is From data to decisions, which focuses on impactful data science that informs decisions, changes minds, and shapes policy."
-  },
-  {
-    "objectID": "index.html#sponsors",
-    "href": "index.html#sponsors",
-    "title": "Australian Data Science Network Conference 2026",
-    "section": "Sponsors",
-    "text": "Sponsors\n\n\n\n\n\n\n\nWant to find out more about sponsoring the conference? Head over to the sponsorship page."
-  },
-  {
-    "objectID": "index.html#key-information",
-    "href": "index.html#key-information",
-    "title": "Australian Data Science Network Conference 2026",
-    "section": "Key information",
-    "text": "Key information\n\nConference will be held over the 26th & 27th of November, at ABS House in Belconnen, Canberra\nEach day will be a single stream\nAbstract submissions opening soon\nSocial program to be announced"
-  },
-  {
-    "objectID": "sponsors.html",
-    "href": "sponsors.html",
-    "title": "Sponsorship",
-    "section": "",
-    "text": "https://www.abs.gov.au/\n\n\nThe Australian Bureau of Statistics are providing the perfect venue for this year’s conference, hosting us in the heart of the organisation at ABS House in Belconnen.\n\n\n\n\n\n\nhttps://statsoc.org.au/\n\n\nThe Statistical Society of Australia is the peak professional body for statisticians and data scientists in Australia. With branches across the country and a data science special interest group, visit their website to find out how to join and what’s happening near you."
-  },
-  {
-    "objectID": "sponsors.html#our-sponsors",
-    "href": "sponsors.html#our-sponsors",
-    "title": "Sponsorship",
-    "section": "",
-    "text": "https://www.abs.gov.au/\n\n\nThe Australian Bureau of Statistics are providing the perfect venue for this year’s conference, hosting us in the heart of the organisation at ABS House in Belconnen.\n\n\n\n\n\n\nhttps://statsoc.org.au/\n\n\nThe Statistical Society of Australia is the peak professional body for statisticians and data scientists in Australia. With branches across the country and a data science special interest group, visit their website to find out how to join and what’s happening near you."
-  },
-  {
-    "objectID": "sponsors.html#sponsorship-packages",
-    "href": "sponsors.html#sponsorship-packages",
-    "title": "Sponsorship",
-    "section": "Sponsorship packages",
-    "text": "Sponsorship packages\nBy sponsoring the conference you’ll have a unique opportunity access Australia’s top data scientists as well as graduates entering the job market. To find out more or discuss a custom sponsorship arrangement, get in touch with the conference chair, Ben Harrap.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBenefits\nPlatinum ($5,000)\nGold ($3,000)\nSilver ($2,000)\nBronze ($1,000)\n\n\n\n\nAcknowledgement at events\n✔\n✔\n✔\n✔\n\n\nADSN conference banner sponsor\n✔\n✔\n✔\n✔\n\n\nDigital graphics to share\n✔\n✔\n✔\n✔\n\n\nLogo across conference materials\n✔\n✔\n✔\n✔\n\n\nPromotion via ADSN social media\n✔\n✔\n✔\n\n\n\n\nConference passes\n3\n2\n2\n1\n\n\nPull-up banners\n3\n2\n1\n1\n\n\nParticipation in conference program (e.g. industry talk or panel representation)\n1\n1\n\n\n\n\n\n\nFull trestle table\n1"
-  },
-  {
-    "objectID": "abstract.html",
-    "href": "abstract.html",
-    "title": "Abstract submissions",
-    "section": "",
-    "text": "Abstract submissions will open soon. Follow the ADSN on LinkedIn or subscribe to the newsletter to stay up-to-date."
-  },
-  {
-    "objectID": "keynotes.html",
-    "href": "keynotes.html",
-    "title": "Keynotes",
-    "section": "",
-    "text": "Stay tuned for keynote announcements! Follow the ADSN on LinkedIn or subscribe to the newsletter."
-  },
-  {
     "objectID": "organisers.html",
     "href": "organisers.html",
     "title": "Organising Committee",
@@ -103,5 +26,96 @@
     "title": "Organising Committee",
     "section": "Web team",
     "text": "Web team"
+  },
+  {
+    "objectID": "program.html",
+    "href": "program.html",
+    "title": "Program",
+    "section": "",
+    "text": "Stay tuned for keynote announcements! Follow the ADSN on LinkedIn or subscribe to the newsletter."
+  },
+  {
+    "objectID": "program.html#keynotes",
+    "href": "program.html#keynotes",
+    "title": "Program",
+    "section": "",
+    "text": "Stay tuned for keynote announcements! Follow the ADSN on LinkedIn or subscribe to the newsletter."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Australian Data Science Network Conference 2026",
+    "section": "",
+    "text": "Copyright JJ Harrison\nJoin us in the nation’s capital for the annual Australian Data Science Network Conference. This year’s theme is From Data to Decisions, which focuses on impactful data science that informs decisions, changes minds, and shapes policy."
+  },
+  {
+    "objectID": "index.html#sponsors",
+    "href": "index.html#sponsors",
+    "title": "Australian Data Science Network Conference 2026",
+    "section": "Sponsors",
+    "text": "Sponsors\n \nWant to find out more about sponsoring the conference? Head over to the sponsorship page."
+  },
+  {
+    "objectID": "index.html#key-information",
+    "href": "index.html#key-information",
+    "title": "Australian Data Science Network Conference 2026",
+    "section": "Key information",
+    "text": "Key information\n\nConference will be held over the 26th & 27th of November, at ABS House in Belconnen, Canberra\nEach day will be a single stream\nAbstract submissions opening soon\nSocial program to be announced"
+  },
+  {
+    "objectID": "sponsors.html",
+    "href": "sponsors.html",
+    "title": "Sponsorship",
+    "section": "",
+    "text": "https://www.abs.gov.au/\n\n\n\n\n\nThe Australian Bureau of Statistics are Australia’s national statistical agency and an official source of independent, reliable information. They are providing the perfect venue for this year’s conference, hosting us in the heart of the organisation at ABS House in Belconnen.\n\n\n\n\n\n\n\n\nhttps://statsoc.org.au/\n\n\n\n\n\nThe Statistical Society of Australia is the peak professional body for statisticians and data scientists in Australia. With branches across the country and a data science special interest group, visit their website to find out how to join and what’s happening near you."
+  },
+  {
+    "objectID": "sponsors.html#our-sponsors",
+    "href": "sponsors.html#our-sponsors",
+    "title": "Sponsorship",
+    "section": "",
+    "text": "https://www.abs.gov.au/\n\n\n\n\n\nThe Australian Bureau of Statistics are Australia’s national statistical agency and an official source of independent, reliable information. They are providing the perfect venue for this year’s conference, hosting us in the heart of the organisation at ABS House in Belconnen.\n\n\n\n\n\n\n\n\nhttps://statsoc.org.au/\n\n\n\n\n\nThe Statistical Society of Australia is the peak professional body for statisticians and data scientists in Australia. With branches across the country and a data science special interest group, visit their website to find out how to join and what’s happening near you."
+  },
+  {
+    "objectID": "sponsors.html#sponsorship-packages",
+    "href": "sponsors.html#sponsorship-packages",
+    "title": "Sponsorship",
+    "section": "Sponsorship packages",
+    "text": "Sponsorship packages\nBy sponsoring the conference you’ll have a unique opportunity access Australia’s top data scientists as well as graduates entering the job market. To find out more or discuss a custom sponsorship arrangement, get in touch with the conference chair, Ben Harrap.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBenefits\nPlatinum ($5,000)\nGold ($3,000)\nSilver ($2,000)\nBronze ($1,000)\n\n\n\n\nAcknowledgement at events\n✔\n✔\n✔\n✔\n\n\nADSN conference banner sponsor\n✔\n✔\n✔\n✔\n\n\nDigital graphics to share\n✔\n✔\n✔\n✔\n\n\nLogo across conference materials\n✔\n✔\n✔\n✔\n\n\nPromotion via ADSN social media\n✔\n✔\n✔\n\n\n\n\nConference passes\n3\n2\n2\n1\n\n\nPull-up banners\n3\n2\n1\n1\n\n\nParticipation in conference program (e.g. industry talk or panel representation)\n1\n1\n\n\n\n\n\n\nFull trestle table\n1"
+  },
+  {
+    "objectID": "destination.html",
+    "href": "destination.html",
+    "title": "Destination",
+    "section": "",
+    "text": "ABS House is located at 45 Benjamin Way, Belconnen, Canberra, ACT 2617.\nThe conference will be held in the Knibbs Lecture Theatre.\n\n\nThe conference venue is a 10-minute drive from the CBD or a 20-minute drive from the Canberra Airport.\nThere are many car parks nearby, including at the Westfield Shopping Centre.\n\n\n\n\n\nIf you’re staying in the Canberra CBD area, you can catch routes 2, 3, 4, 5, and 6 from Alinga Street to the Belconnen Bus Interchange. ABS House is just around the corner. To use public transport in Canberra you can simply tap on with a Visa or Mastercard card or use a MyWay+ card or the app.\n\n\n\nE-bikes and e-scooters are available through Lime Micromobility, but we wouldn’t recommend scooting from the CBD!"
+  },
+  {
+    "objectID": "destination.html#venue",
+    "href": "destination.html#venue",
+    "title": "Destination",
+    "section": "",
+    "text": "ABS House is located at 45 Benjamin Way, Belconnen, Canberra, ACT 2617.\nThe conference will be held in the Knibbs Lecture Theatre.\n\n\nThe conference venue is a 10-minute drive from the CBD or a 20-minute drive from the Canberra Airport.\nThere are many car parks nearby, including at the Westfield Shopping Centre.\n\n\n\n\n\nIf you’re staying in the Canberra CBD area, you can catch routes 2, 3, 4, 5, and 6 from Alinga Street to the Belconnen Bus Interchange. ABS House is just around the corner. To use public transport in Canberra you can simply tap on with a Visa or Mastercard card or use a MyWay+ card or the app.\n\n\n\nE-bikes and e-scooters are available through Lime Micromobility, but we wouldn’t recommend scooting from the CBD!"
+  },
+  {
+    "objectID": "destination.html#accommodation",
+    "href": "destination.html#accommodation",
+    "title": "Destination",
+    "section": "Accommodation",
+    "text": "Accommodation"
+  },
+  {
+    "objectID": "abstract.html",
+    "href": "abstract.html",
+    "title": "Abstract submissions",
+    "section": "",
+    "text": "Abstract submissions will open soon. Follow the ADSN on LinkedIn or subscribe to the newsletter to stay up-to-date."
+  },
+  {
+    "objectID": "registration.html",
+    "href": "registration.html",
+    "title": "Registration",
+    "section": "",
+    "text": "Registration details coming soon! Follow the ADSN on LinkedIn or subscribe to the newsletter to stay up-to-date."
   }
 ]

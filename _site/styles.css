@@ -8,3 +8,13 @@
 .organisers {
   text-align: center;
 }
+
+.sponsor-container figcaption {
+  text-align: center;
+}
+
+.sponsor-logo {
+  padding-right: 10px;
+  padding-left: 10px;
+  max-height: 150px;
+}

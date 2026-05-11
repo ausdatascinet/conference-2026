@@ -4,21 +4,35 @@ title: "Sponsorship"
 
 ## Our sponsors
 
-### Australian Bureau of Statistics
+### In-kind
 
-![<https://www.abs.gov.au/>](img/abs.png){height=150px fig-align="left"}
+::::: {.columns}
+::: {.column width="30%" .sponsor-container}
+![<https://www.abs.gov.au/>](img/abs.png){.sponsor-logo}
+:::
 
-The Australian Bureau of Statistics are providing the perfect venue for this year's conference, hosting us in the heart of the organisation at ABS House in Belconnen.
+::: {.column width="70%"}
+#### Australian Bureau of Statistics
 
-### Statistical Society of Australia
+The Australian Bureau of Statistics are Australia’s national statistical agency and an official source of independent, reliable information. They are providing the perfect venue for this year's conference, hosting us in the heart of the organisation at ABS House in Belconnen.
+:::
+:::::
 
-![<https://statsoc.org.au/>](img/ssa.png){height=150px fig-align="left"}
+::::: {.columns .sponsor-container}
+::: {.column width="30%"}
+![<https://statsoc.org.au/>](img/ssa.png){.sponsor-logo}
+:::
+
+::: {.column width="70%"}
+#### Statistical Society of Australia
 
 The Statistical Society of Australia is the peak professional body for statisticians and data scientists in Australia. With branches across the country and a data science special interest group, visit their website to find out how to join and what's happening near you.
+:::
+:::::
 
 ## Sponsorship packages
 
-By sponsoring the conference you'll have a unique opportunity access Australia's top data scientists as well as graduates entering the job market. To find out more or discuss a custom sponsorship arrangement, get in touch with the conference chair, [Ben Harrap](mailto:benjamin.harrap@anu.edu.au?subject=ADSN Conference Sponsorship).
+By sponsoring the conference you'll have a unique opportunity access Australia's top data scientists as well as graduates entering the job market. To find out more or discuss a custom sponsorship arrangement, get in touch with the conference chair, [Ben Harrap](mailto:benjamin.harrap@anu.edu.au?subject=ADSN%20Conference%20Sponsorship).
 
 ```{r}
 #| echo: false
