@@ -3,6 +3,9 @@ project:
 
 website:
   title: "ADSN2026"
+  open-graph:
+    image-alt: "A panoramic photograph of Canberra, Australia, showing the central city area, surrounding lakes, and the parliamentary triangle"
+    image: "/img/canberra.jpg"
   navbar:
     left:
       - text: Program
