@@ -4,21 +4,48 @@ title: "Organising Committee"
 
 ## Local organising committee
 
-::: {.columns}
-:::: {.column .organisers width=45%}
+:::::: columns
+::: {.column .organisers width="20%"}
 ![](img/ben.png){.avatar}
 
-Ben Harrap
+**Ben Harrap**
 
-Committee Chair
-::::
-:::: {.column .organisers width=10%}
-::::
-:::: {.column .organisers width=45%}
-
-::::
+Chair
 :::
 
+::: {.column .organisers width="20%"}
+:::
+::: {.column .organisers width="20%"}
+:::
+::: {.column .organisers width="20%"}
+:::
+::::::
+
 ## Scientific programming committee
+
+:::::: columns
+::: {.column .organisers width="20%"}
+![](img/gentry.png){.avatar}
+
+**Gentry White**
+
+Chair
+:::
+::: {.column .organisers width="5%"}
+:::
+::: {.column .organisers width="20%"}
+![](img/garth.jpg){.avatar}
+
+**Garth Tarr**
+
+Member
+:::
+::: {.column .organisers width="20%"}
+:::
+::: {.column .organisers width="5%"}
+:::
+::: {.column .organisers width="20%"}
+:::
+::::::
 
 ## Web team
