@@ -12,8 +12,14 @@ title: "Organising Committee"
 
 Chair
 :::
-
+::: {.column .organisers width="5%"}
+:::
 ::: {.column .organisers width="20%"}
+![](img/ghazal.jpeg){.avatar}
+
+**Ghazal Bargshady**
+
+Member
 :::
 
 ::: {.column .organisers width="20%"}
