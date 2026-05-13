@@ -2,12 +2,25 @@
 title: "Sponsorship"
 ---
 
+```{r}
+#| include: false
+knitr::opts_chunk$set(
+  error = FALSE,
+  message = FALSE,
+  warning = FALSE,
+  echo = FALSE
+)
+
+library(readr)
+```
+
+
 ## Our sponsors
 
 ### In-kind
 
-::::: {.columns}
-::: {.column width="30%" .sponsor-container}
+::::: columns
+::: {.column .sponsor-container width="30%"}
 ![<https://www.abs.gov.au/>](img/abs.png){.sponsor-logo}
 :::
 
@@ -35,25 +48,46 @@ The Statistical Society of Australia is the peak professional body for statistic
 By sponsoring the conference you'll have a unique opportunity access Australia's top data scientists as well as graduates entering the job market. To find out more or discuss a custom sponsorship arrangement, get in touch with the conference chair, [Ben Harrap](mailto:benjamin.harrap@anu.edu.au?subject=ADSN%20Conference%20Sponsorship).
 
 ```{r}
-#| echo: false
-#| warning: false
-#| message: false
-library(gt)
-library(readr)
-read_csv("resources/sponsorship.csv") |> 
-  gt() |> 
-  sub_missing(
-    columns = everything(),
-    rows = everything(),
-    missing_text = ""
-    ) |>
-  opt_row_striping(row_striping = FALSE) |>
-  tab_options(
-    table.font.size = px(16)
-  ) |>
-  cols_align(align = "center", columns = -Benefits) |> 
-  tab_style(
-    style = cell_text(weight = "bold", size = px(17)),
-    locations = cells_column_labels()
-  )
+# library(gt)
+# library(readr)
+# read_csv("resources/sponsorship.csv") |> 
+#   gt() |> 
+#   sub_missing(
+#     columns = everything(),
+#     rows = everything(),
+#     missing_text = ""
+#     ) |>
+#   opt_row_striping(row_striping = FALSE) |>
+#   tab_options(
+#     table.font.size = px(16)
+#   ) |>
+#   cols_align(align = "center", columns = -Benefits) |> 
+#   tab_style(
+#     style = cell_text(weight = "bold", size = px(17)),
+#     locations = cells_column_labels()
+#   )
 ```
+
+
+```{r}
+#| results: asis
+sponsor <- read_csv("resources/sponsorship.csv", show_col_types = FALSE)
+
+sponsor[] <- lapply(sponsor, function(x) {
+  replace(as.character(x), is.na(x), "")
+})
+
+sponsor[sponsor == "✔"] <-
+  '<span class="native-emoji">&#x2714;&#xFE0F;</span>'
+
+cat(
+  "<table class='sponsor-table'>",
+  "<thead><tr>",
+  paste0("<th>", names(sponsor), "</th>", collapse = ""),
+  "</tr></thead><tbody>",
+  paste(apply(sponsor, 1, function(r)
+    paste0("<tr>", paste0("<td>", r, "</td>", collapse = ""), "</tr>")), collapse = ""),
+  "</tbody></table>"
+)
+```
+

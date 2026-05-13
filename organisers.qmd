@@ -4,84 +4,92 @@ title: "Organising Committee"
 
 ## Local organising committee
 
-::: {.columns}
-:::: {.column .organisers width="20%"}
+::::::: columns
+::: {.column .organisers width="20%"}
 ![](img/ben.png){.avatar}
 
 **Ben Harrap**
 
 Chair
-::::
-
-:::: {.column .organisers width="20%"}
-::::
-
-:::: {.column .organisers width="20%"}
-::::
-
-:::: {.column .organisers width="20%"}
-::::
 :::
+
+::: {.column .organisers width="20%"}
+:::
+
+::: {.column .organisers width="20%"}
+:::
+
+::: {.column .organisers width="20%"}
+:::
+:::::::
 
 ## Scientific programming committee
 
-::: {.columns}
-:::: {.column .organisers width="20%"}
+:::::::::: columns
+::: {.column .organisers width="20%"}
 ![](img/gentry.png){.avatar}
 
 **Gentry White**
 
 Chair
-::::
+:::
 
-:::: {.column .organisers width="5%"}
-::::
+::: {.column .organisers width="5%"}
+:::
 
-:::: {.column .organisers width="20%"}
+::: {.column .organisers width="20%"}
 ![](img/garth.jpg){.avatar}
 
 **Garth Tarr**
 
 Member
-::::
-:::: {.column .organisers width="5%"}
-::::
-:::: {.column .organisers width="20%"}
+:::
+
+::: {.column .organisers width="5%"}
+:::
+
+::: {.column .organisers width="20%"}
 ![](img/nicola.jpeg){.avatar}
 
 **Nicola Armstrong**
 
 Member
-::::
-:::: {.column .organisers width="5%"}
-::::
-:::: {.column .organisers width="20%"}
-::::
 :::
+
+::: {.column .organisers width="5%"}
+:::
+
+::: {.column .organisers width="20%"}
+:::
+::::::::::
 
 ## Web team
 
-::: {.columns}
-:::: {.column .organisers width="20%"}
+:::::::::: columns
+::: {.column .organisers width="20%"}
 ![](img/placeholder.png){.avatar}
 
 **Maliny Po**
-::::
+:::
 
-:::: {.column .organisers width="5%"}
-::::
+::: {.column .organisers width="5%"}
+:::
 
-:::: {.column .organisers width="20%"}
-![](img/placeholder.png){.avatar}
+::: {.column .organisers width="20%"}
+![](img/minh.jpg){.avatar}
 
 **Minh Nguyen**
-::::
-:::: {.column .organisers width="5%"}
-::::
-:::: {.column .organisers width="20%"}
-::::
-:::: {.column .organisers width="5%"}
-::::
-:::: {.column .organisers width="20%"}
-::::
 :::
+
+::: {.column .organisers width="5%"}
+:::
+
+::: {.column .organisers width="20%"}
+:::
+
+::: {.column .organisers width="5%"}
+:::
+
+::: {.column .organisers width="20%"}
+:::
+::::::::::

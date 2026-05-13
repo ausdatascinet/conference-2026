@@ -27,6 +27,13 @@ website:
     tools:
     - icon: github
       url: https://github.com/ausdatascinet/conference-2026
+  page-footer:
+    left: |
+      ![](img/ssa.png){width=100px} 
+    right: |
+      [Contact Us](mailto:email@example.com)
+    background: "#f8f9fa"
+    
 
 format:
   html:
