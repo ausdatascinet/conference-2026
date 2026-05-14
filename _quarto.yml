@@ -29,9 +29,14 @@ website:
       url: https://github.com/ausdatascinet/conference-2026
   page-footer:
     left: |
-      ![](img/ssa.png){width=100px} 
-    right: |
-      [Contact Us](mailto:email@example.com)
+      Presenting Partners
+      
+      [![](img/adsn.jpg){width=100px}](https://australiandatascience.net/)
+      [![](img/ssa.png){width=100px}](https://statsoc.org.au/)
+    center: |
+      Thanks to our sponsors
+      
+      [![](img/abs.png){width=100px}](https://www.abs.gov.au/)
     background: "#f8f9fa"
     
 
