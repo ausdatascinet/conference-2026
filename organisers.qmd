@@ -66,8 +66,41 @@ Member
 :::
 
 ::: {.column .organisers width="20%"}
+![](img/mythreyi.png){.avatar}
+
+**Mythreyi Velmurugan**
+
+Member
 :::
 ::::::::::
+
+:::::::::: columns
+::: {.column .organisers width="20%"}
+![](img/andrzej.png){.avatar}
+
+**Andrzej Janusz**
+
+Member
+:::
+
+::: {.column .organisers width="5%"}
+:::
+
+::: {.column .organisers width="20%"}
+:::
+
+::: {.column .organisers width="5%"}
+:::
+
+::: {.column .organisers width="20%"}
+:::
+
+::: {.column .organisers width="5%"}
+:::
+
+::: {.column .organisers width="20%"}
+:::
+:::::::::: 
 
 ## Web team
 
