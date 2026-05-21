@@ -87,6 +87,11 @@ Member
 :::
 
 ::: {.column .organisers width="20%"}
+![](img/flavio.png){.avatar}
+
+**Flavio Pileggi**
+
+Member
 :::
 
 ::: {.column .organisers width="5%"}
