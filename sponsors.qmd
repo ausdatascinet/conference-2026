@@ -21,13 +21,15 @@ library(readr)
 
 ::::: columns
 ::: {.column .sponsor-container width="30%"}
-![<https://www.abs.gov.au/>](img/abs.png){.sponsor-logo}
+![<https://www.abs.gov.au/about/abs-careers/start-your-career-abs-graduate>](img/abs.png){.sponsor-logo}
 :::
 
 ::: {.column width="70%"}
 #### Australian Bureau of Statistics
 
-The Australian Bureau of Statistics are Australia’s national statistical agency and an official source of independent, reliable information. They are providing the perfect venue for this year's conference, hosting us in the heart of the organisation at ABS House in Belconnen.
+The Australian Bureau of Statistics are Australia’s national statistical agency and an official source of independent, reliable information. They are providing the perfect venue for this year's conference, hosting us in the heart of the organisation at ABS House in Belconnen. 
+
+Looking to start a career in statistics? The ABS provide a supportive environment via their graduate program. Follow the link to find out more.
 :::
 :::::
 
