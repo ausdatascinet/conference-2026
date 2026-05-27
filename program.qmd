@@ -17,7 +17,7 @@ Stay tuned for program announcements! Follow the [ADSN on LinkedIn](https://www.
 :::: {.column width=40%}
 ![](img/andrew-leigh.png)
 ::::
-
+:::
 
 <!-- ## Program -->
 
