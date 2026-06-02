@@ -107,7 +107,7 @@ Member
 
 :::::::::: columns
 ::: {.column .organisers width="20%"}
-![](img/placeholder.png){.avatar}
+![](img/maliny.jpeg){.avatar}
 
 **Maliny Po**
 :::
