@@ -15,7 +15,11 @@ Chair
 ::: {.column .organisers width="5%"}
 :::
 ::: {.column .organisers width="20%"}
+![](img/rachel.png){.avatar}
 
+**Rachel Barker**
+
+Member
 :::
 
 ::: {.column .organisers width="20%"}
