@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Registration – ADSN2026</title>
+<title>Abstract submission – ADSN2026</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -73,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Registration – ADSN2026">
+<meta property="og:title" content="Abstract submission – ADSN2026">
 <meta property="og:description" content="">
 <meta property="og:image" content="/img/canberra.jpg">
 <meta property="og:site_name" content="ADSN2026">
@@ -98,7 +98,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./abstract.html"> 
+    <a class="nav-link active" href="./abstract.html" aria-current="page"> 
 <span class="menu-text">Abstract Submission</span></a>
   </li>  
   <li class="nav-item">
@@ -110,7 +110,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Destination</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./registration.html" aria-current="page"> 
+    <a class="nav-link" href="./registration.html"> 
 <span class="menu-text">Registration</span></a>
   </li>  
   <li class="nav-item">
@@ -140,15 +140,21 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#key-information" id="toc-key-information" class="nav-link active" data-scroll-target="#key-information">Key information</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Registration</h1>
+<h1 class="title">Abstract submission</h1>
 </div>
 
 
@@ -165,9 +171,58 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Registration details coming soon! Follow the <a href="https://www.linkedin.com/company/australiandata/">ADSN on LinkedIn</a> or <a href="https://australiandatascience.net/subscribe-to-newsletter/">subscribe to the newsletter</a> to stay up-to-date.</p>
+<div style="font-size: 2rem; font-weight=600;">
+<p id="countdown">
+</p>
+<p><a href="https://forms.gle/Si2vF1hyAd1BrJfr5">Submit here</a></p>
+</div>
+<section id="key-information" class="level2">
+<h2 class="anchored" data-anchor-id="key-information">Key information</h2>
+<p>The theme of the conference is “From Data to Decisions”, however we invite submissions of abstracts for contributed talks and posters across all areas of data science, including but not limited to:</p>
+<ul>
+<li>Health and biomedical data science</li>
+<li>Data reuse, linkage, and secondary data sources</li>
+<li>Environmental and agricultural data science</li>
+<li>Statistical modelling, machine learning and AI</li>
+<li>Data visualisation, interpretability, and explainability</li>
+<li>Data platforms, tools and infrastructure</li>
+<li>Urban, geospatial and remote sensing analytics</li>
+<li>Ethics, privacy and data governance</li>
+<li>Digital humanities and social science</li>
+<li>Industry and government applications</li>
+</ul>
+<p>Follow the <a href="https://www.linkedin.com/company/australiandata/">ADSN on LinkedIn</a> or <a href="https://australiandatascience.net/subscribe-to-newsletter/">subscribe to the newsletter</a> to stay up-to-date.</p>
+<script>
+var countDownDate = new Date("Jul 25, 2026 11:59:59").getTime();
+
+var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  // Display the result in the element with id="countdown"
+  document.getElementById("countdown").innerHTML = "Closing in " + days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+
+  // If the count down is finished, write some text
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("countdown").innerHTML = "EXPIRED";
+  }
+}, 1000);
+</script>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

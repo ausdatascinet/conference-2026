@@ -9,8 +9,7 @@ website:
   navbar:
     left:
       - text: Abstract Submission
-        href: https://forms.gle/Si2vF1hyAd1BrJfr5
-        target: "_blank"
+        href: abstract.qmd
       - text: Program
         href: program.qmd
       - text: Destination
