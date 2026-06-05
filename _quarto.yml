@@ -8,12 +8,13 @@ website:
     image: "/img/canberra.jpg"
   navbar:
     left:
+      - text: Abstract Submission
+        href: https://forms.gle/Si2vF1hyAd1BrJfr5
+        target: "_blank"
       - text: Program
         href: program.qmd
       - text: Destination
         href: destination.qmd
-      - text: Abstract Submission
-        href: abstract.qmd
       - text: Registration
         href: registration.qmd
       - text: Sponsorship
