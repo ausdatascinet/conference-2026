@@ -47,29 +47,7 @@ The Statistical Society of Australia is the peak professional body for statistic
 
 ## Sponsorship packages
 
-By sponsoring the conference you'll have a unique opportunity access Australia's top data scientists as well as graduates entering the job market. To find out more or discuss a custom sponsorship arrangement, get in touch with the conference chair, [Ben Harrap](mailto:benjamin.harrap@anu.edu.au?subject=ADSN%20Conference%20Sponsorship).
-
-```{r}
-# library(gt)
-# library(readr)
-# read_csv("resources/sponsorship.csv") |> 
-#   gt() |> 
-#   sub_missing(
-#     columns = everything(),
-#     rows = everything(),
-#     missing_text = ""
-#     ) |>
-#   opt_row_striping(row_striping = FALSE) |>
-#   tab_options(
-#     table.font.size = px(16)
-#   ) |>
-#   cols_align(align = "center", columns = -Benefits) |> 
-#   tab_style(
-#     style = cell_text(weight = "bold", size = px(17)),
-#     locations = cells_column_labels()
-#   )
-```
-
+By sponsoring the conference you'll have a unique opportunity access Australia's top data scientists as well as graduates entering the job market. To find out more about who tends to attend ADSN Conferences, or discuss a custom sponsorship arrangement, get in touch with the conference chair, [Ben Harrap](mailto:benjamin.harrap@anu.edu.au?subject=ADSN%20Conference%20Sponsorship).
 
 ```{r}
 #| results: asis
@@ -92,4 +70,3 @@ cat(
   "</tbody></table>"
 )
 ```
-
