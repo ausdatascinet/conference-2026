@@ -2,4 +2,28 @@
 title: "Registration"
 ---
 
-Registration details coming soon! Follow the [ADSN on LinkedIn](https://www.linkedin.com/company/australiandata/) or [subscribe to the newsletter](https://australiandatascience.net/subscribe-to-newsletter/) to stay up-to-date.
+## Conference
+
+Registrations for the conference are made through the [Statistical Society of Australia's website](https://statsoc.org.au/event-6727769).
+
+Price structure:
+
+- SSA members
+  - Early bird $300
+  - Standard $350
+- Non-SSA members
+  - Early bird $350
+  - Standard $400
+- Students
+  - Early bird $150
+  - Standard $175
+
+**Early bird pricing is available until the end of August.**
+
+All registrations include attendance for both days of the conference and the conference social event. The pre-conference workshop requires separate registration, see below for more details.
+
+## Pre-conference workshop
+
+Details of the workshop will be announced soon.
+
+Follow the [ADSN on LinkedIn](https://www.linkedin.com/company/australiandata/) or [subscribe to the newsletter](https://australiandatascience.net/subscribe-to-newsletter/) to stay up-to-date.
