@@ -1,5 +1,5 @@
 ---
-title: "Program"
+title: "Conference Program"
 ---
 
 Stay tuned for program announcements! Follow the [ADSN on LinkedIn](https://www.linkedin.com/company/australiandata/) or [subscribe to the newsletter](https://australiandatascience.net/subscribe-to-newsletter/).

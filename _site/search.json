@@ -30,21 +30,21 @@
   {
     "objectID": "program.html",
     "href": "program.html",
-    "title": "Program",
+    "title": "Conference Program",
     "section": "",
     "text": "Stay tuned for program announcements! Follow the ADSN on LinkedIn or subscribe to the newsletter."
   },
   {
     "objectID": "program.html#keynotes",
     "href": "program.html#keynotes",
-    "title": "Program",
+    "title": "Conference Program",
     "section": "Keynotes",
     "text": "Keynotes\n\nAndrew Leigh MP\n\n\nAndrew Leigh is the Assistant Minister for Productivity, Competition, Charities and Treasury, and Federal Member for Fenner in the ACT. Prior to being elected in 2010, Andrew was a professor of economics at the Australian National University. He holds a PhD in Public Policy from Harvard, having graduated from the University of Sydney with first class honours in Arts and Law. Andrew is a past recipient of the Economic Society of Australia’s Young Economist Award and a Fellow of the Australian Academy of Social Sciences.\n\n\n\n\n\n\n\n\nDr Emi Tanaka\n\n\nEmi Tanaka is a statistician, the Australian National University lead for the Analytics for The Australian Grains Industry Project, and Editor-in-Chief of the R Journal. She has a passion for data science and open-source software, which is evident across her work spanning experimental design, mixed-effects models, data visualisation, emerging analytics (machine/deep learning and large language models) and developing better statistical workflows, practice and tools. Since completing her PhD in statistics in 2015, Emi has been recognised as an expert and leader in her field, delivering numerous invited talks both nationally and internationally and being awarded the Statistical Society of Australia President’s Award for Leadership in Statistics."
   },
   {
     "objectID": "program.html#social-night",
     "href": "program.html#social-night",
-    "title": "Program",
+    "title": "Conference Program",
     "section": "Social night",
     "text": "Social night\n\nGenerator Gallery, Belconnen Arts Centre\n\n\nCome along for a night of conversation, contemporary art, and stunning views over Lake Ginninderra. This catered event is an opportunity for attendees to relax and get to know one another.\nAll conference attendees are welcome at the social night, with tickets included in the price of registration."
   },
@@ -117,6 +117,27 @@
     "title": "Destination",
     "section": "Accommodation",
     "text": "Accommodation\nThere are many accommodation options, both in Belconnen near the conference venue, and in the Canberra CBD.\nWe have arranged discounted accommodation for conference attendees at the following hotels:\n\nMercure Canberra Belconnen\nDelegates are eligible for a discounted nightly rate of $185:\n\nBooking link: https://all.accor.com/hotel/B390/index.en.shtml\nBooking code: BGPG"
+  },
+  {
+    "objectID": "workshop.html",
+    "href": "workshop.html",
+    "title": "Modern Data Linkage Methods and Implementation Using Splink",
+    "section": "",
+    "text": "Linked data assets, such as the Person Level Integrated Data Asset (PLIDA), are a rich source of information, allowing the analysis of interconnected systems such as healthcare, government services, education, and taxation. But the creation of these assets is not always straightforward, as often there is not a deterministic way of identifying individuals across datasets, such as with a unique identifier. Probabilistic data linkage methods can help resolve this problem by comparing fields common across datasets and give an estimate of how likely two records belong to the same individual.\nThis one-day pre-conference workshop on probabilistic linking using the Python package Splink will cover:\nThe workshop will be presented by Aymon Wuolanne and Daniel Fearnley, from the Data Linking Methodology section in the Australian Bureau of Statistics (ABS). They work on the development and productionisation of Splink at the ABS, which is used to produce data assets like PLIDA.\nNo prior background in probabilistic linking theory is required, although a basic understanding of Python is recommended.\nThis workshop is open to everyone, not just conference delegates."
+  },
+  {
+    "objectID": "workshop.html#registration-information",
+    "href": "workshop.html#registration-information",
+    "title": "Modern Data Linkage Methods and Implementation Using Splink",
+    "section": "Registration information",
+    "text": "Registration information\nRegister for the workshop here\nWorkshop pricing:\n\n$500 for non-SSA members\n$250 for SSA members\n$150 for students\n\nRegistrations include catering for the full day. Attendees are to bring their own laptops."
+  },
+  {
+    "objectID": "workshop.html#presenters",
+    "href": "workshop.html#presenters",
+    "title": "Modern Data Linkage Methods and Implementation Using Splink",
+    "section": "Presenters",
+    "text": "Presenters\n\nDaniel Fearnley\n\n\nDaniel joined the ABS in 2011, and has spent the last 3 years in Data Linking Methodology where he has led the team responsible for assessing the feasibility of the probabilistic linkage tool Splink, and the transition to using Splink as the default linking tool for all ABS person-level linkages. His team won the 2026 APS Data Award in Data System and Innovation for their work on Splink. Outside of work, Daniel enjoys cooking and running (because he likes cooking) and earlier this year he and his wife watched every game of the FIFA World Cup.\n\n\n\n\n\n\n\n\nAymon Wuolanne\n\n\nAymon joined the ABS as a graduate in 2022 and is currently a methodologist in Data Linking Methodology. In 2025 he won the Ken Foreman Award for his work on building the Person Linkage Spine using Splink, and was a member of the team that won the 2026 APS Data Award in Data System and Innovation for their work on Splink. Outside of work, Aymon enjoys walking, reading, video games and running much slower than Daniel."
   },
   {
     "objectID": "abstract.html",

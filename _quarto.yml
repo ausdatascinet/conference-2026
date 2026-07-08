@@ -10,7 +10,9 @@ website:
     left:
       - text: Abstract Submission
         href: abstract.qmd
-      - text: Program
+      - text: Workshop
+        href: workshop.qmd
+      - text: Conference Program
         href: program.qmd
       - text: Destination
         href: destination.qmd

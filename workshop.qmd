@@ -1,0 +1,63 @@
+---
+title: "Modern Data Linkage Methods and Implementation Using Splink"
+---
+
+Linked data assets, such as the Person Level Integrated Data Asset (PLIDA), are a rich source of information, allowing the analysis of interconnected systems such as healthcare, government services, education, and taxation. But the creation of these assets is not always straightforward, as often there is not a deterministic way of identifying individuals across datasets, such as with a unique identifier. Probabilistic data linkage methods can help resolve this problem by comparing fields common across datasets and give an estimate of how likely two records belong to the same individual.
+
+This one-day pre-conference workshop on probabilistic linking using the Python package [`Splink`](https://moj-analytical-services.github.io/splink/index.html) will cover:
+
+- Theory underpinning probabilistic linking,
+- Setting up and and performing a basic Splink linkage,
+- Advanced techniques to customise Splink in specific use cases.
+
+The workshop will be presented by **Aymon Wuolanne** and **Daniel Fearnley**, from the Data Linking Methodology section in the Australian Bureau of Statistics 
+(ABS). They work on the development and productionisation of Splink at the ABS, which is used to produce data assets like [PLIDA](https://www.abs.gov.au/statistics/data-integration/integrated-data/person-level-integrated-data-asset-plida).
+
+No prior background in probabilistic linking theory is required, although a basic understanding of Python is recommended.
+
+- Wednesday 25th November, 2026
+- 09:00 to 17:00 AEDT
+- ABS House, Belconnen, ACT
+- In-person only
+
+**This workshop is open to everyone, not just conference delegates.**
+
+## Registration information
+
+Register for the workshop [here](https://statsoc.org.au/event-6755343)
+
+Workshop pricing:
+
+- $500 for non-SSA members
+- $250 for [SSA members](https://statsoc.org.au/Membership-Types)
+- $150 for students 
+
+Registrations include catering for the full day. Attendees are to bring their own laptops.
+
+## Presenters
+
+### Daniel Fearnley
+
+:::: {.columns}
+::: {.column width=55%}
+Daniel joined the ABS in 2011, and has spent the last 3 years in Data Linking Methodology where he has led the team responsible for assessing the feasibility of the probabilistic linkage tool Splink, and the transition to using Splink as the default linking tool for all ABS person-level linkages. His team won the 2026 APS Data Award in Data System and Innovation for their work on Splink. Outside of work, Daniel enjoys cooking and running (because he likes cooking) and earlier this year he and his wife watched every game of the FIFA World Cup.
+:::
+::: {.column width=5%}
+:::
+::: {.column width=40%}
+![](img/daniel.jpg){fig-alt="A photo of Daniel Fearnley"}
+:::
+::::
+
+### Aymon Wuolanne
+
+:::: {.columns}
+::: {.column width=55%}
+Aymon joined the ABS as a graduate in 2022 and is currently a methodologist in Data Linking Methodology. In 2025 he won the Ken Foreman Award for his work on building the Person Linkage Spine using Splink, and was a member of the team that won the 2026 APS Data Award in Data System and Innovation for their work on Splink. Outside of work, Aymon enjoys walking, reading, video games and running much slower than Daniel.
+:::
+::: {.column width=5%}
+:::
+::: {.column width=40%}
+![](img/aymon.jpg){fig-alt="A photo of Aymon Wuolanne"}
+:::
+::::
