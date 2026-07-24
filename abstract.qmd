@@ -2,6 +2,8 @@
 title: "Abstract submission"
 ---
 
+The submission deadline has been extended to the 31st of July!
+
 ::: {style="font-size: 2rem; font-weight=600;"}
 <p id="countdown"></p>
 
@@ -29,7 +31,7 @@ Follow the [ADSN on LinkedIn](https://www.linkedin.com/company/australiandata/) 
 
 
 <script>
-var countDownDate = new Date("Jul 25, 2026 11:59:59").getTime();
+var countDownDate = new Date("Jul 31, 2026 00:00:00").getTime();
 
 var x = setInterval(function() {
 

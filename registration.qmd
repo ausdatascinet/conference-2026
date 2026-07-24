@@ -24,6 +24,6 @@ All registrations include attendance for both days of the conference and the con
 
 ## Pre-conference workshop
 
-Details of the workshop will be announced soon.
+The pre-confernece workshop, Modern Data Linkage Methods and Implementation Using Splink, is open for registrations! See the [workshop page](./workshop.qmd) for more details.
 
 Follow the [ADSN on LinkedIn](https://www.linkedin.com/company/australiandata/) or [subscribe to the newsletter](https://australiandatascience.net/subscribe-to-newsletter/) to stay up-to-date.
