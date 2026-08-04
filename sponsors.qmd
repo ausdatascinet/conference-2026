@@ -17,6 +17,22 @@ library(readr)
 
 ## Our sponsors
 
+<!-- ### Gold sponsors -->
+
+<!-- ::::: columns -->
+<!-- ::: {.column .sponsor-container width="30%"} -->
+<!-- ![<https://ardc.edu.au/>](img/ardc.png){.sponsor-logo} -->
+<!-- ::: -->
+
+<!-- ::: {.column width="70%"} -->
+<!-- #### Australian Research Data Commons -->
+
+<!-- The ARDC is Australia’s leading research data infrastructure facility. They’re accelerating Australian research and innovation by driving excellence in the creation, analysis and retention of high-quality data assets. -->
+
+<!-- The ARDC partner with the research community and industry to build leading-edge digital research infrastructure to provide Australian researchers with competitive advantage through data. -->
+<!-- ::: -->
+<!-- ::::: -->
+
 ### In-kind
 
 ::::: columns

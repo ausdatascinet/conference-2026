@@ -175,12 +175,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>The submission deadline has been extended to the 31st of July!</p>
-<div style="font-size: 2rem; font-weight=600;">
-<p id="countdown">
-</p>
-<p><a href="https://forms.gle/Si2vF1hyAd1BrJfr5">Submit here</a></p>
-</div>
+<p>Abstract submissions have closed! Thank you to everyone who submitted, we’ll be announcing the results in early September.</p>
 <section id="key-information" class="level2">
 <h2 class="anchored" data-anchor-id="key-information">Key information</h2>
 <p>The theme of the conference is “From Data to Decisions”, however we invite submissions of abstracts for contributed talks and posters across all areas of data science, including but not limited to:</p>
@@ -197,34 +192,6 @@ ul.task-list li input[type="checkbox"] {
 <li>Industry and government applications</li>
 </ul>
 <p>Follow the <a href="https://www.linkedin.com/company/australiandata/">ADSN on LinkedIn</a> or <a href="https://australiandatascience.net/subscribe-to-newsletter/">subscribe to the newsletter</a> to stay up-to-date.</p>
-<script>
-var countDownDate = new Date("Jul 31, 2026 00:00:00").getTime();
-
-var x = setInterval(function() {
-
-  // Get today's date and time
-  var now = new Date().getTime();
-
-  // Find the distance between now and the count down date
-  var distance = countDownDate - now;
-
-  // Time calculations for days, hours, minutes and seconds
-  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-  // Display the result in the element with id="countdown"
-  document.getElementById("countdown").innerHTML = "Closing in " + days + "d " + hours + "h "
-  + minutes + "m " + seconds + "s ";
-
-  // If the count down is finished, write some text
-  if (distance < 0) {
-    clearInterval(x);
-    document.getElementById("countdown").innerHTML = "EXPIRED";
-  }
-}, 1000);
-</script>
 
 
 </section>
