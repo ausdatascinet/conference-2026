@@ -32,12 +32,35 @@ Stay tuned for program announcements! Follow the [ADSN on LinkedIn](https://www.
 :::
 ::::
 
-## Social night
+## Social program
 
-### Generator Gallery, Belconnen Arts Centre
+### Pre-conference informal gathering
 
 :::: {.columns}
 ::: {.column width=55%}
+🗓️ Wednesday 25th November, 6pm onward
+
+📍 The Lighthouse Pub, Belconnen
+
+For those looking for something to do the night before the conference starts, we've booked the beer garden at the The Lighthouse Pub. Come November the weather should be perfect to enjoy dinner whilst looking out over Lake Ginninderra.
+
+Note that we've booked the space only. While attendees will be responsible for their own food and drink expenses, the conversation will be free!
+:::
+::: {.column width=5%}
+:::
+::: {.column width=40%}
+![](img/lighthouse.jpg){fig-alt="A photo of the Lighthouse Pub's beer garden. A decked area with seating shaded by trees, overlooking Lake Ginninderra"}
+:::
+::::
+
+### Conference social night
+
+:::: {.columns}
+::: {.column width=55%}
+🗓️ Thursday 26th November, 6pm to 9pm
+
+📍 Generator Gallery, Belconnen Arts Centre
+
 Come along for a night of conversation, contemporary art, and stunning views over Lake Ginninderra. This catered event is an opportunity for attendees to relax and get to know one another.
 
 All conference attendees are welcome at the social night, with tickets included in the price of registration.
