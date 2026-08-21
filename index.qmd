@@ -12,6 +12,12 @@ Join us in the nation's capital for the annual Australian Data Science Network C
 
 ## Sponsors
 
+### Gold
+
+![](img/ardc.svg){.sponsor-logo width="300px"}
+
+### In-kind
+
 ![](img/abs.png){.sponsor-logo}
 ![](img/ssa.png){.sponsor-logo}
 
