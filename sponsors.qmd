@@ -20,7 +20,7 @@ library(readr)
 
 ::::: columns
 ::: {.column .sponsor-container width="30%"}
-![<https://ardc.edu.au/>](img/ardc.svg){.sponsor-logo width="200px"}
+![<https://ardc.edu.au/>](img/ardc.svg){.sponsor-logo width="250px"}
 :::
 
 ::: {.column width="70%"}
