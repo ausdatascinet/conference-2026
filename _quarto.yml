@@ -33,12 +33,14 @@ website:
     left: |
       Presenting Partners
       
-      [![](img/adsn.jpg){width=100px}](https://australiandatascience.net/)
-      [![](img/ssa.png){width=100px}](https://statsoc.org.au/)
+      [![](img/adsn.jpg){.sponsor-logo width=100px}](https://australiandatascience.net/)
+      [![](img/ssa.png){.sponsor-logo width=100px}](https://statsoc.org.au/)
     center: |
       Thanks to our sponsors
       
-      [![](img/abs.png){width=100px}](https://www.abs.gov.au/)
+      [![](img/ardc.svg){.sponsor-logo width=180px}](https://ardc.edu.au/)
+      [![](img/sdas.png){.sponsor-logo width=150px}](https://surveydesign.com.au/go/adsn)
+      [![](img/abs.png){.sponsor-logo width=100px}](https://www.abs.gov.au/)
     background: "#f8f9fa"
     
 
