@@ -24,11 +24,26 @@ library(readr)
 :::
 
 ::: {.column width="70%"}
-#### Australian Research Data Commons
+#### **Australian Research Data Commons**
 
 The ARDC is Australia’s leading research data infrastructure facility. They’re accelerating Australian research and innovation by driving excellence in the creation, analysis and retention of high-quality data assets.
 
 The ARDC partner with the research community and industry to build leading-edge digital research infrastructure to provide Australian researchers with competitive advantage through data.
+:::
+:::::
+
+::::: columns
+::: {.column .sponsor-container width="30%"}
+![[https://surveydesign.com.au](https://surveydesign.com.au/go/adsn)](img/sdas.png){.sponsor-logo}
+:::
+
+
+::: {.column width="70%"}
+#### **Survey Design and Analysis Services Pty Ltd**
+
+Delivering **Stata** in Australia, Indonesia and New Zealand.
+
+Survey Design and Analysis Services provides software, training and support for organisations and individuals working with data. From data management and statistical analysis to visualisation, predictive modelling and reporting, our tools help users work efficiently, uncover meaningful insights and communicate accurate, reproducible results with confidence.
 :::
 :::::
 
@@ -40,7 +55,7 @@ The ARDC partner with the research community and industry to build leading-edge 
 :::
 
 ::: {.column width="70%"}
-#### Australian Bureau of Statistics
+#### **Australian Bureau of Statistics**
 
 The Australian Bureau of Statistics are Australia’s national statistical agency and an official source of independent, reliable information. They are providing the perfect venue for this year's conference, hosting us in the heart of the organisation at ABS House in Belconnen. 
 
@@ -54,7 +69,7 @@ Looking to start a career in statistics? The ABS provide a supportive environmen
 :::
 
 ::: {.column width="70%"}
-#### Statistical Society of Australia
+#### **Statistical Society of Australia**
 
 The Statistical Society of Australia is the peak professional body for statisticians and data scientists in Australia. With branches across the country and a data science special interest group, visit their website to find out how to join and what's happening near you.
 :::
