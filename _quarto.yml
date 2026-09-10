@@ -13,7 +13,11 @@ website:
       - text: Workshop
         href: workshop.qmd
       - text: Conference Program
-        href: program.qmd
+        menu: 
+          - text: Schedule
+            href: schedule.qmd
+          - text: Program
+            href: program.qmd
       - text: Destination
         href: destination.qmd
       - text: Registration

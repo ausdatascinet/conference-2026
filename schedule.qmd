@@ -1,0 +1,111 @@
+---
+title: "Schedule"
+format:
+  html:
+    html-table-processing: none
+execute:
+  echo: false
+  message: false
+  warning: false
+---
+
+```{r}
+library(readr)
+library(dplyr)
+library(lubridate)
+library(gt)
+
+program <- read_csv("resources/program.csv", col_types = "ccccc") |>
+  mutate(
+    category = factor(
+      category,
+      levels = c(
+        "break",
+        "keynote",
+        "panel",
+        "posters",
+        "procedural",
+        "social",
+        "talks",
+        "workshop"
+      )
+    ),
+    duration = case_when(
+      session == "Pre-conference workshop" ~ "",
+      .default = paste0(
+        "(",
+        time_length(hm(end) - hm(start), unit = "minutes"),
+        "min)"
+      )
+    )
+  )
+
+make_program <- function(prog_day) {
+  program |>
+    filter(date == ymd({{prog_day}})) |>
+    gt() |>
+    fmt_time(
+      columns = c(start, end),
+      time_style = "h_m_p"
+    ) |>
+    cols_label(
+      start = "Time",
+      session = "Session",
+      duration = ""
+    ) |>
+    cols_align(align = "left", columns = c(start, session)) |>
+    cols_align(align = "center", columns = duration) |>
+    tab_style(
+      style = cell_text(size = px(13)),
+      locations = cells_body(columns = duration)
+    ) |> 
+    cols_hide(c(date, category, end)) |>
+    data_color(
+      columns = category,
+      target_columns = c(session, duration),
+      palette = c(
+        "#F6C7FF", # break
+        "#FFE982", # keynote
+        "#FFE982", # panel
+        "#FFE982", # posters
+        "#FFE982", # procedural
+        "#F6C7FF", # social
+        "#FFE982", # talks
+        "#FFE982" # workshop
+      ),
+      levels = c(
+        "break",
+        "keynote",
+        "panel",
+        "posters",
+        "procedural",
+        "social",
+        "talks",
+        "workshop"
+      )
+    )
+}
+```
+
+Session allocations will be announced soon!
+
+::: {.panel-tabset}
+### Wednesday 25th
+
+```{r}
+make_program("2026-11-25")
+```
+
+### Thursday 26th
+
+```{r}
+make_program("2026-11-26")
+```
+
+### Friday 27th
+
+```{r}
+make_program("2026-11-27")
+```
+
+:::

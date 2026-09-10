@@ -1,52 +1,122 @@
 [
   {
-    "objectID": "organisers.html",
-    "href": "organisers.html",
-    "title": "Organising Committee",
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
     "section": "",
-    "text": "Ben Harrap\nChair\n\n\n\n\nRachel Barker\nMember"
+    "text": "Session allocations will be announced soon!\n\nWednesday 25thThursday 26thFriday 27th\n\n\n\n\n\n\n\n  \n    \n      Time\n      Session\n      \n    \n  \n  \n    9:30 AM\nPre-conference workshop\n\n    6:00 PM\nInformal social gathering\n(180min)\n  \n  \n\n\n\n\n\n\n\n\n\n\n\n  \n    \n      Time\n      Session\n      \n    \n  \n  \n    8:30 AM\nRegistration desk open\n(60min)\n    9:30 AM\nWelcome to Country, opening address\n(30min)\n    10:00 AM\nKeynote: Dr Emi Tanaka\n(60min)\n    11:00 AM\nMorning tea\n(30min)\n    11:30 AM\nPanel session\n(60min)\n    12:30 PM\nLunch\n(60min)\n    1:30 PM\nInvited talks\n(90min)\n    3:00 PM\nAfternoon tea\n(30min)\n    3:30 PM\nInvited talks\n(30min)\n    4:00 PM\nPoster session\n(60min)\n    6:00 PM\nConference social night\n(180min)\n  \n  \n\n\n\n\n\n\n\n\n\n\n\n  \n    \n      Time\n      Session\n      \n    \n  \n  \n    8:30 AM\nARDC Workshop\n(60min)\n    9:45 AM\nInvited talks\n(60min)\n    10:45 AM\nMorning tea\n(30min)\n    11:15 AM\nKeynote: Andrew Leigh MP\n(60min)\n    12:15 PM\nLunch\n(60min)\n    1:45 PM\nInvited talks\n(60min)\n    2:45 PM\nAfternoon tea\n(30min)\n    3:15 PM\nInvited talks\n(60min)\n    4:15 PM\nConference close\n(15min)"
   },
   {
-    "objectID": "organisers.html#local-organising-committee",
-    "href": "organisers.html#local-organising-committee",
-    "title": "Organising Committee",
+    "objectID": "registration.html",
+    "href": "registration.html",
+    "title": "Registration",
     "section": "",
-    "text": "Ben Harrap\nChair\n\n\n\n\nRachel Barker\nMember"
+    "text": "Registrations for the conference are made through the Statistical Society of Australia’s website.\nPrice structure:\n\nSSA members\n\nEarly bird $300\nStandard $350\n\nNon-SSA members\n\nEarly bird $350\nStandard $400\n\nStudents\n\nEarly bird $150\nStandard $175\n\n\nEarly bird pricing is available until the end of August.\nAll registrations include attendance for both days of the conference and the conference social event. The pre-conference workshop requires separate registration, see below for more details."
   },
   {
-    "objectID": "organisers.html#scientific-programming-committee",
-    "href": "organisers.html#scientific-programming-committee",
-    "title": "Organising Committee",
-    "section": "Scientific programming committee",
-    "text": "Scientific programming committee\n\n\n\nGentry White\nChair\n\n\n\n\nGarth Tarr\nMember\n\n\n\n\nNicola Armstrong\nMember\n\n\n\n\nMythreyi Velmurugan\nMember\n\n\n\n\n\nAndrzej Janusz\nMember\n\n\n\n\nFlavio Pileggi\nMember"
-  },
-  {
-    "objectID": "organisers.html#web-team",
-    "href": "organisers.html#web-team",
-    "title": "Organising Committee",
-    "section": "Web team",
-    "text": "Web team\n\n\n\nMaliny Po\n\n\n\n\nMinh Nguyen"
-  },
-  {
-    "objectID": "program.html",
-    "href": "program.html",
-    "title": "Conference Program",
+    "objectID": "registration.html#conference",
+    "href": "registration.html#conference",
+    "title": "Registration",
     "section": "",
-    "text": "Stay tuned for program announcements! Follow the ADSN on LinkedIn or subscribe to the newsletter."
+    "text": "Registrations for the conference are made through the Statistical Society of Australia’s website.\nPrice structure:\n\nSSA members\n\nEarly bird $300\nStandard $350\n\nNon-SSA members\n\nEarly bird $350\nStandard $400\n\nStudents\n\nEarly bird $150\nStandard $175\n\n\nEarly bird pricing is available until the end of August.\nAll registrations include attendance for both days of the conference and the conference social event. The pre-conference workshop requires separate registration, see below for more details."
   },
   {
-    "objectID": "program.html#keynotes",
-    "href": "program.html#keynotes",
-    "title": "Conference Program",
-    "section": "Keynotes",
-    "text": "Keynotes\n\nDr Emi Tanaka, Australian National University\n\n\nEmi Tanaka is a statistician, the Australian National University lead for the Analytics for The Australian Grains Industry Project, and Editor-in-Chief of the R Journal. She has a passion for data science and open-source software, which is evident across her work spanning experimental design, mixed-effects models, data visualisation, emerging analytics (machine/deep learning and large language models) and developing better statistical workflows, practice and tools.\nSince completing her PhD in statistics in 2015, Emi has been recognised as an expert and leader in her field, delivering numerous invited talks both nationally and internationally and being awarded the Statistical Society of Australia President’s Award for Leadership in Statistics.\n\n\n\n\n\n\n\nDecision-Making with Statistics and Data Science in the Age of AI\nArtificial intelligence (AI) is emerging as one of the most significant technological disruptors of contemporary society. It is changing almost every aspect of our lives: how we generate and discuss ideas, gather and process information, automate workflows, write code, solve mathematical problems, and ultimately make decisions.\nIn this talk, I will present some emerging uses of AI in statistics and data science. I will also reflect on trends I am increasingly seeing as the Editor-in-Chief of the R Journal, which publishes research centred on R, one of the most widely used programming languages for statistics and data science. From this perspective, I have witnessed first-hand how AI is changing journal article writing, R package development, peer review, and copy-editing.\nI will discuss both the risks and opportunities that AI brings. As a society, we need to recognise and embrace the distinctive value that humans bring to the table, while adapting to new ways of working, reasoning, and making decisions alongside AI.\n \n\n\n\nAndrew Leigh MP\n\n\nAndrew Leigh is the Assistant Minister for Productivity, Competition, Charities and Treasury, and Federal Member for Fenner in the ACT. Prior to being elected in 2010, Andrew was a professor of economics at the Australian National University.\nHe holds a PhD in Public Policy from Harvard, having graduated from the University of Sydney with first class honours in Arts and Law. Andrew is a past recipient of the Economic Society of Australia’s Young Economist Award and a Fellow of the Australian Academy of Social Sciences.\n\n\n\n\n\n\n\nThe Microdata Dividend\nAt a time when survey response rates are falling globally, the Australian Bureau of Statistics has invested heavily in confidentialised microdata for research. Operated under strict privacy protections and in secure data environments, the Person-Level Integrated Data Asset (PLIDA) and the Business Longitudinal Analytical Data Environment (BLADE) sit alongside other assets such as the Australian Census Longitudinal Dataset, the Longitudinally Linked Employer-Employee Database, the Australian Census and Migrants Integrated Dataset and the Vocational Education and Training National Data Asset.\nThese datasets allow researchers to follow people and firms over time and study policy effects at scale. They enable randomised trials to track outcomes through administrative records and nonprofits to evaluate client outcomes. Already, linked microdata has informed government policies, including merger reform and the decision to ban non-compete clauses for low- and middle-income workers. This talk looks at what Australia’s expanding microdata infrastructure offers researchers, how these assets are being used by international experts, the role of the APS Data Profession, and where the next gains might come from."
+    "objectID": "registration.html#pre-conference-workshop",
+    "href": "registration.html#pre-conference-workshop",
+    "title": "Registration",
+    "section": "Pre-conference workshop",
+    "text": "Pre-conference workshop\nThe pre-confernece workshop, Modern Data Linkage Methods and Implementation Using Splink, is open for registrations! See the workshop page for more details.\nFollow the ADSN on LinkedIn or subscribe to the newsletter to stay up-to-date."
   },
   {
-    "objectID": "program.html#social-program",
-    "href": "program.html#social-program",
-    "title": "Conference Program",
-    "section": "Social program",
-    "text": "Social program\n\nPre-conference informal gathering\n\n\n🗓️ Wednesday 25th November, 6pm onward\n📍 The Lighthouse Pub, Belconnen\nFor those looking for something to do the night before the conference starts, we’ve booked the beer garden at the The Lighthouse Pub. Come November the weather should be perfect to enjoy dinner whilst looking out over Lake Ginninderra.\nNote that we’ve booked the space only. While attendees will be responsible for their own food and drink expenses, the conversation will be free!\n\n\n\n\n\n\n\n\nConference social night — Sponsored by SDAS\n\n\n🗓️ Thursday 26th November, 6pm to 9pm\n📍 Generator Gallery, Belconnen Arts Centre\nCome along for a night of conversation, contemporary art, and stunning views over Lake Ginninderra. Thanks to SDAS’ support, this catered event will be an opportunity for attendees to relax and get to know one another.\nAll conference attendees are welcome at the social night, with tickets included in the price of registration."
+    "objectID": "codeofconduct.html",
+    "href": "codeofconduct.html",
+    "title": "Code of Conduct",
+    "section": "",
+    "text": "The organisers of the Australian Data Science Network Conference 2026 are committed to providing a conference that is welcoming and safe for all participants, is free from unlawful discrimination and harassment, and where all participants are treated with dignity and respect. Harassment is unlawful under both federal and all Australian state anti-discrimination laws, and as such, people suspected of such misconduct may be reported to authorities. Adherence to this Code of Conduct is a requirement for all conference participants and sponsors, and covers all aspects of this conference, including conference sessions and breaks, all social events and all communication, including that via email or social media (including but not limited to Facebook and X (formerly Twitter)) associated with the conference. Unacceptable behaviour includes, but is not limited to:\nTo report violations of this Code of Conduct, alert a member of the Response Team (names and contact details listed below). Reports may be made by people subject to, or witnesses of, unacceptable behaviour."
+  },
+  {
+    "objectID": "codeofconduct.html#code-of-conduct-response-team",
+    "href": "codeofconduct.html#code-of-conduct-response-team",
+    "title": "Code of Conduct",
+    "section": "Code of Conduct Response Team",
+    "text": "Code of Conduct Response Team\n[In this section list the names, email addresses, and if appropriate, telephone numbers, of people tasked with responding to reports of violations of the Code. At least two people must be listed, but ideally there will be several listed contacts, from a variety of institutions/workplaces, including both men and women. The list should include, but is not limited to, conference/meeting organisers. Ideally members of this response team will have some training in dealing with reports of harassment.]\nFor example: Abba B Abbason, Senior Lecturer at Stats University. Email:…, Phone number:….\nIf an individual participates in unacceptable behaviour, the Response Team may take lawful action that they deem appropriate, including asking the individual to stop or removal of the individual from the [conference/event/meeting] without refund of registration and/or other applicable fees. Reports of unacceptable behaviour may be communicated to the Statistical Society of Australia, and individuals who participate in unacceptable behaviour may face consequences including being disallowed from attending future events. Individuals who are ejected will not be allowed to give any planned oral or poster presentations, and their place may be allocated to another attendee. The reason for the replacement presentation may also be announced (e.g., “Professor X has violated this event’s code of conduct and has been asked to leave and therefore will not be able to present today, in their place we will instead hear from …”). Violations may be reported to the individual’s employer or research funders. Statistical Society of Australia members may have their membership cancelled without refund of membership fees.\nAll efforts will be made to protect the anonymity of persons reporting violations. Persons reporting violations of the Code may request that their report remain confidential and that no further action be taken. However, if the Code of Conduct Response Team deems it necessary for the safety of event attendees, action will be taken, including referral of the report to the Statistical Society of Australia. This Code of Conduct is designed to ensure that this event can be enjoyed by all participants.\nWe hope you have an inspiring and enjoyable time."
+  },
+  {
+    "objectID": "abstract.html",
+    "href": "abstract.html",
+    "title": "Abstract submission",
+    "section": "",
+    "text": "Abstract submissions have closed! Thank you to everyone who submitted, we’ll be announcing the results in early September."
+  },
+  {
+    "objectID": "abstract.html#key-information",
+    "href": "abstract.html#key-information",
+    "title": "Abstract submission",
+    "section": "Key information",
+    "text": "Key information\nThe theme of the conference is “From Data to Decisions”, however we invite submissions of abstracts for contributed talks and posters across all areas of data science, including but not limited to:\n\nHealth and biomedical data science\nData reuse, linkage, and secondary data sources\nEnvironmental and agricultural data science\nStatistical modelling, machine learning and AI\nData visualisation, interpretability, and explainability\nData platforms, tools and infrastructure\nUrban, geospatial and remote sensing analytics\nEthics, privacy and data governance\nDigital humanities and social science\nIndustry and government applications\n\nFollow the ADSN on LinkedIn or subscribe to the newsletter to stay up-to-date."
+  },
+  {
+    "objectID": "workshop.html",
+    "href": "workshop.html",
+    "title": "Modern Data Linkage Methods and Implementation Using Splink",
+    "section": "",
+    "text": "Linked data assets, such as the Person Level Integrated Data Asset (PLIDA), are a rich source of information, allowing the analysis of interconnected systems such as healthcare, government services, education, and taxation. But the creation of these assets is not always straightforward, as often there is not a deterministic way of identifying individuals across datasets, such as with a unique identifier. Probabilistic data linkage methods can help resolve this problem by comparing fields common across datasets and give an estimate of how likely two records belong to the same individual.\nThis one-day pre-conference workshop on probabilistic linking using the Python package Splink will cover:\nThe workshop will be presented by Aymon Wuolanne and Daniel Fearnley, from the Data Linking Methodology section in the Australian Bureau of Statistics (ABS). They work on the development and productionisation of Splink at the ABS, which is used to produce data assets like PLIDA.\nNo prior background in probabilistic linking theory is required, although a basic understanding of Python is recommended.\nThis workshop is open to everyone, not just conference delegates."
+  },
+  {
+    "objectID": "workshop.html#registration-information",
+    "href": "workshop.html#registration-information",
+    "title": "Modern Data Linkage Methods and Implementation Using Splink",
+    "section": "Registration information",
+    "text": "Registration information\nRegister for the workshop here\nWorkshop pricing:\n\n$500 for non-SSA members\n$250 for SSA members\n$150 for students\n\nRegistrations include catering for the full day. Attendees are to bring their own laptops."
+  },
+  {
+    "objectID": "workshop.html#presenters",
+    "href": "workshop.html#presenters",
+    "title": "Modern Data Linkage Methods and Implementation Using Splink",
+    "section": "Presenters",
+    "text": "Presenters\n\nDaniel Fearnley\n\n\nDaniel joined the ABS in 2011, and has spent the last 3 years in Data Linking Methodology where he has led the team responsible for assessing the feasibility of the probabilistic linkage tool Splink, and the transition to using Splink as the default linking tool for all ABS person-level linkages. His team won the 2026 APS Data Award in Data System and Innovation for their work on Splink. Outside of work, Daniel enjoys cooking and running (because he likes cooking) and earlier this year he and his wife watched every game of the FIFA World Cup.\n\n\n\n\n\n\n\n\nAymon Wuolanne\n\n\nAymon joined the ABS as a graduate in 2022 and is currently a methodologist in Data Linking Methodology. In 2025 he won the Ken Foreman Award for his work on building the Person Linkage Spine using Splink, and was a member of the team that won the 2026 APS Data Award in Data System and Innovation for their work on Splink. Outside of work, Aymon enjoys walking, reading, video games and running much slower than Daniel."
+  },
+  {
+    "objectID": "destination.html",
+    "href": "destination.html",
+    "title": "Destination",
+    "section": "",
+    "text": "ABS House is located at 45 Benjamin Way, Belconnen, Canberra, ACT 2617.\nThe conference will be held in the Knibbs Lecture Theatre. The venue is wheelchair accessible, however if you have any questions or additional requirements, please get in touch with the conference chair Ben Harrap\n\n\nThe conference venue is a 10-minute drive from the CBD or a 20-minute drive from the Canberra Airport.\nThere are many car parks nearby, including at the Westfield Shopping Centre.\n\n\n\n\n\nIf you’re staying in the Canberra CBD area, you can catch routes 2, 3, 4, 5, and 6 from Alinga Street to the Belconnen Bus Interchange. ABS House is just around the corner. To use public transport in Canberra you can simply tap on with a Visa or Mastercard card or use a MyWay+ card or the app.\n\n\n\nE-bikes and e-scooters are available through Lime Micromobility, but we wouldn’t recommend scooting from the CBD!"
+  },
+  {
+    "objectID": "destination.html#venue",
+    "href": "destination.html#venue",
+    "title": "Destination",
+    "section": "",
+    "text": "ABS House is located at 45 Benjamin Way, Belconnen, Canberra, ACT 2617.\nThe conference will be held in the Knibbs Lecture Theatre. The venue is wheelchair accessible, however if you have any questions or additional requirements, please get in touch with the conference chair Ben Harrap\n\n\nThe conference venue is a 10-minute drive from the CBD or a 20-minute drive from the Canberra Airport.\nThere are many car parks nearby, including at the Westfield Shopping Centre.\n\n\n\n\n\nIf you’re staying in the Canberra CBD area, you can catch routes 2, 3, 4, 5, and 6 from Alinga Street to the Belconnen Bus Interchange. ABS House is just around the corner. To use public transport in Canberra you can simply tap on with a Visa or Mastercard card or use a MyWay+ card or the app.\n\n\n\nE-bikes and e-scooters are available through Lime Micromobility, but we wouldn’t recommend scooting from the CBD!"
+  },
+  {
+    "objectID": "destination.html#accommodation",
+    "href": "destination.html#accommodation",
+    "title": "Destination",
+    "section": "Accommodation",
+    "text": "Accommodation\nThere are many accommodation options, both in Belconnen near the conference venue, and in the Canberra CBD.\nWe have arranged discounted accommodation for conference attendees at the Mercure Canberra Belconnen. Delegates are eligible for a discounted nightly rate of $185:\n\nBooking link: https://all.accor.com/hotel/B390/index.en.shtml\nBooking code: BGPG"
+  },
+  {
+    "objectID": "sponsors.html",
+    "href": "sponsors.html",
+    "title": "Sponsorship",
+    "section": "",
+    "text": "https://ardc.edu.au/\n\n\n\n\n\nThe ARDC is Australia’s leading research data infrastructure facility. They’re accelerating Australian research and innovation by driving excellence in the creation, analysis and retention of high-quality data assets.\nThe ARDC partner with the research community and industry to build leading-edge digital research infrastructure to provide Australian researchers with competitive advantage through data.\n\n\n\n\n\n\n\n\nhttps://surveydesign.com.au\n\n\n\n\n\nDelivering Stata in Australia, Indonesia and New Zealand.\nSurvey Design and Analysis Services provides software, training and support for organisations and individuals working with data. From data management and statistical analysis to visualisation, predictive modelling and reporting, our tools help users work efficiently, uncover meaningful insights and communicate accurate, reproducible results with confidence.\n\n\n\n\n\n\n\n\n\n\n\nhttps://www.abs.gov.au/about/abs-careers/start-your-career-abs-graduate\n\n\n\n\n\nThe Australian Bureau of Statistics are Australia’s national statistical agency and an official source of independent, reliable information. They are providing the perfect venue for this year’s conference, hosting us in the heart of the organisation at ABS House in Belconnen.\nLooking to start a career in statistics? The ABS provide a supportive environment via their graduate program. Follow the link to find out more.\n\n\n\n\n\n\n\n\nhttps://statsoc.org.au/\n\n\n\n\n\nThe Statistical Society of Australia is the peak professional body for statisticians and data scientists in Australia. With branches across the country and a data science special interest group, visit their website to find out how to join and what’s happening near you."
+  },
+  {
+    "objectID": "sponsors.html#our-sponsors",
+    "href": "sponsors.html#our-sponsors",
+    "title": "Sponsorship",
+    "section": "",
+    "text": "https://ardc.edu.au/\n\n\n\n\n\nThe ARDC is Australia’s leading research data infrastructure facility. They’re accelerating Australian research and innovation by driving excellence in the creation, analysis and retention of high-quality data assets.\nThe ARDC partner with the research community and industry to build leading-edge digital research infrastructure to provide Australian researchers with competitive advantage through data.\n\n\n\n\n\n\n\n\nhttps://surveydesign.com.au\n\n\n\n\n\nDelivering Stata in Australia, Indonesia and New Zealand.\nSurvey Design and Analysis Services provides software, training and support for organisations and individuals working with data. From data management and statistical analysis to visualisation, predictive modelling and reporting, our tools help users work efficiently, uncover meaningful insights and communicate accurate, reproducible results with confidence.\n\n\n\n\n\n\n\n\n\n\n\nhttps://www.abs.gov.au/about/abs-careers/start-your-career-abs-graduate\n\n\n\n\n\nThe Australian Bureau of Statistics are Australia’s national statistical agency and an official source of independent, reliable information. They are providing the perfect venue for this year’s conference, hosting us in the heart of the organisation at ABS House in Belconnen.\nLooking to start a career in statistics? The ABS provide a supportive environment via their graduate program. Follow the link to find out more.\n\n\n\n\n\n\n\n\nhttps://statsoc.org.au/\n\n\n\n\n\nThe Statistical Society of Australia is the peak professional body for statisticians and data scientists in Australia. With branches across the country and a data science special interest group, visit their website to find out how to join and what’s happening near you."
+  },
+  {
+    "objectID": "sponsors.html#sponsorship-packages",
+    "href": "sponsors.html#sponsorship-packages",
+    "title": "Sponsorship",
+    "section": "Sponsorship packages",
+    "text": "Sponsorship packages\nBy sponsoring the conference you’ll have a unique opportunity access Australia’s top data scientists as well as graduates entering the job market. To find out more about who tends to attend ADSN Conferences, or discuss a custom sponsorship arrangement, get in touch with the conference chair, Ben Harrap.\n\n\n\n\nBenefits\n\n\nPlatinum($5,000)\n\n\nGold($3,000)\n\n\nSilver($2,000)\n\n\nBronze($1,000)\n\n\n\n\n\n\nAcknowledgement at events\n\n\n✔️\n\n\n✔️\n\n\n✔️\n\n\n✔️\n\n\n\n\nADSN conference banner sponsor\n\n\n✔️\n\n\n✔️\n\n\n✔️\n\n\n✔️\n\n\n\n\nDigital graphics to share\n\n\n✔️\n\n\n✔️\n\n\n✔️\n\n\n✔️\n\n\n\n\nLogo across conference materials\n\n\n✔️\n\n\n✔️\n\n\n✔️\n\n\n✔️\n\n\n\n\nPromotion via ADSN social media\n\n\n✔️\n\n\n✔️\n\n\n✔️\n\n\n\n\n\n\nConference passes\n\n\n3\n\n\n2\n\n\n2\n\n\n1\n\n\n\n\nPull-up banners\n\n\n3\n\n\n2\n\n\n1\n\n\n1\n\n\n\n\nParticipation in conference program (e.g. industry talk or panel representation)\n\n\n1\n\n\n1\n\n\n\n\n\n\n\n\nFull trestle table\n\n\n1"
   },
   {
     "objectID": "index.html",
@@ -77,115 +147,52 @@
     "text": "Australasian Applied Statistics Conference 2026\nLooking to continue the conversation after the conference concludes? The Australasian Applied Statistics Conference 2026 is begins the very next week, running from November 30th to December 4th on the Sunshine Coast. Check out their website for more info https://aasc2026.netlify.app/."
   },
   {
-    "objectID": "sponsors.html",
-    "href": "sponsors.html",
-    "title": "Sponsorship",
+    "objectID": "program.html",
+    "href": "program.html",
+    "title": "Conference Program",
     "section": "",
-    "text": "https://ardc.edu.au/\n\n\n\n\n\nThe ARDC is Australia’s leading research data infrastructure facility. They’re accelerating Australian research and innovation by driving excellence in the creation, analysis and retention of high-quality data assets.\nThe ARDC partner with the research community and industry to build leading-edge digital research infrastructure to provide Australian researchers with competitive advantage through data.\n\n\n\n\n\n\n\n\nhttps://surveydesign.com.au\n\n\n\n\n\nDelivering Stata in Australia, Indonesia and New Zealand.\nSurvey Design and Analysis Services provides software, training and support for organisations and individuals working with data. From data management and statistical analysis to visualisation, predictive modelling and reporting, our tools help users work efficiently, uncover meaningful insights and communicate accurate, reproducible results with confidence.\n\n\n\n\n\n\n\n\n\n\n\nhttps://www.abs.gov.au/about/abs-careers/start-your-career-abs-graduate\n\n\n\n\n\nThe Australian Bureau of Statistics are Australia’s national statistical agency and an official source of independent, reliable information. They are providing the perfect venue for this year’s conference, hosting us in the heart of the organisation at ABS House in Belconnen.\nLooking to start a career in statistics? The ABS provide a supportive environment via their graduate program. Follow the link to find out more.\n\n\n\n\n\n\n\n\nhttps://statsoc.org.au/\n\n\n\n\n\nThe Statistical Society of Australia is the peak professional body for statisticians and data scientists in Australia. With branches across the country and a data science special interest group, visit their website to find out how to join and what’s happening near you."
+    "text": "See the schedule for session timing.\nStay tuned for program announcements! Follow the ADSN on LinkedIn or subscribe to the newsletter."
   },
   {
-    "objectID": "sponsors.html#our-sponsors",
-    "href": "sponsors.html#our-sponsors",
-    "title": "Sponsorship",
+    "objectID": "program.html#keynotes",
+    "href": "program.html#keynotes",
+    "title": "Conference Program",
+    "section": "Keynotes",
+    "text": "Keynotes\n\nDr Emi Tanaka, Australian National University\n\n\nEmi Tanaka is a statistician, the Australian National University lead for the Analytics for The Australian Grains Industry Project, and Editor-in-Chief of the R Journal. She has a passion for data science and open-source software, which is evident across her work spanning experimental design, mixed-effects models, data visualisation, emerging analytics (machine/deep learning and large language models) and developing better statistical workflows, practice and tools.\nSince completing her PhD in statistics in 2015, Emi has been recognised as an expert and leader in her field, delivering numerous invited talks both nationally and internationally and being awarded the Statistical Society of Australia President’s Award for Leadership in Statistics.\n\n\n\n\n\n\n\nDecision-Making with Statistics and Data Science in the Age of AI\nArtificial intelligence (AI) is emerging as one of the most significant technological disruptors of contemporary society. It is changing almost every aspect of our lives: how we generate and discuss ideas, gather and process information, automate workflows, write code, solve mathematical problems, and ultimately make decisions.\nIn this talk, I will present some emerging uses of AI in statistics and data science. I will also reflect on trends I am increasingly seeing as the Editor-in-Chief of the R Journal, which publishes research centred on R, one of the most widely used programming languages for statistics and data science. From this perspective, I have witnessed first-hand how AI is changing journal article writing, R package development, peer review, and copy-editing.\nI will discuss both the risks and opportunities that AI brings. As a society, we need to recognise and embrace the distinctive value that humans bring to the table, while adapting to new ways of working, reasoning, and making decisions alongside AI.\n \n\n\n\nAndrew Leigh MP\n\n\nAndrew Leigh is the Assistant Minister for Productivity, Competition, Charities and Treasury, and Federal Member for Fenner in the ACT. Prior to being elected in 2010, Andrew was a professor of economics at the Australian National University.\nHe holds a PhD in Public Policy from Harvard, having graduated from the University of Sydney with first class honours in Arts and Law. Andrew is a past recipient of the Economic Society of Australia’s Young Economist Award and a Fellow of the Australian Academy of Social Sciences.\n\n\n\n\n\n\n\nThe Microdata Dividend\nAt a time when survey response rates are falling globally, the Australian Bureau of Statistics has invested heavily in confidentialised microdata for research. Operated under strict privacy protections and in secure data environments, the Person-Level Integrated Data Asset (PLIDA) and the Business Longitudinal Analytical Data Environment (BLADE) sit alongside other assets such as the Australian Census Longitudinal Dataset, the Longitudinally Linked Employer-Employee Database, the Australian Census and Migrants Integrated Dataset and the Vocational Education and Training National Data Asset.\nThese datasets allow researchers to follow people and firms over time and study policy effects at scale. They enable randomised trials to track outcomes through administrative records and nonprofits to evaluate client outcomes. Already, linked microdata has informed government policies, including merger reform and the decision to ban non-compete clauses for low- and middle-income workers. This talk looks at what Australia’s expanding microdata infrastructure offers researchers, how these assets are being used by international experts, the role of the APS Data Profession, and where the next gains might come from."
+  },
+  {
+    "objectID": "program.html#social-program",
+    "href": "program.html#social-program",
+    "title": "Conference Program",
+    "section": "Social program",
+    "text": "Social program\n\nPre-conference informal gathering\n\n\n🗓️ Wednesday 25th November, 6pm onward\n📍 The Lighthouse Pub, Belconnen\nFor those looking for something to do the night before the conference starts, we’ve booked the beer garden at the The Lighthouse Pub. Come November the weather should be perfect to enjoy dinner whilst looking out over Lake Ginninderra.\nNote that we’ve booked the space only. While attendees will be responsible for their own food and drink expenses, the conversation will be free!\n\n\n\n\n\n\n\n\nConference social night — Sponsored by SDAS\n\n\n🗓️ Thursday 26th November, 6pm to 9pm\n📍 Generator Gallery, Belconnen Arts Centre\nCome along for a night of conversation, contemporary art, and stunning views over Lake Ginninderra. Thanks to SDAS’ support, this catered event will be an opportunity for attendees to relax and get to know one another.\nAll conference attendees are welcome at the social night, with tickets included in the price of registration."
+  },
+  {
+    "objectID": "organisers.html",
+    "href": "organisers.html",
+    "title": "Organising Committee",
     "section": "",
-    "text": "https://ardc.edu.au/\n\n\n\n\n\nThe ARDC is Australia’s leading research data infrastructure facility. They’re accelerating Australian research and innovation by driving excellence in the creation, analysis and retention of high-quality data assets.\nThe ARDC partner with the research community and industry to build leading-edge digital research infrastructure to provide Australian researchers with competitive advantage through data.\n\n\n\n\n\n\n\n\nhttps://surveydesign.com.au\n\n\n\n\n\nDelivering Stata in Australia, Indonesia and New Zealand.\nSurvey Design and Analysis Services provides software, training and support for organisations and individuals working with data. From data management and statistical analysis to visualisation, predictive modelling and reporting, our tools help users work efficiently, uncover meaningful insights and communicate accurate, reproducible results with confidence.\n\n\n\n\n\n\n\n\n\n\n\nhttps://www.abs.gov.au/about/abs-careers/start-your-career-abs-graduate\n\n\n\n\n\nThe Australian Bureau of Statistics are Australia’s national statistical agency and an official source of independent, reliable information. They are providing the perfect venue for this year’s conference, hosting us in the heart of the organisation at ABS House in Belconnen.\nLooking to start a career in statistics? The ABS provide a supportive environment via their graduate program. Follow the link to find out more.\n\n\n\n\n\n\n\n\nhttps://statsoc.org.au/\n\n\n\n\n\nThe Statistical Society of Australia is the peak professional body for statisticians and data scientists in Australia. With branches across the country and a data science special interest group, visit their website to find out how to join and what’s happening near you."
+    "text": "Ben Harrap\nChair\n\n\n\n\nRachel Barker\nMember"
   },
   {
-    "objectID": "sponsors.html#sponsorship-packages",
-    "href": "sponsors.html#sponsorship-packages",
-    "title": "Sponsorship",
-    "section": "Sponsorship packages",
-    "text": "Sponsorship packages\nBy sponsoring the conference you’ll have a unique opportunity access Australia’s top data scientists as well as graduates entering the job market. To find out more about who tends to attend ADSN Conferences, or discuss a custom sponsorship arrangement, get in touch with the conference chair, Ben Harrap.\n\n\n\n\nBenefits\n\n\nPlatinum($5,000)\n\n\nGold($3,000)\n\n\nSilver($2,000)\n\n\nBronze($1,000)\n\n\n\n\n\n\nAcknowledgement at events\n\n\n✔️\n\n\n✔️\n\n\n✔️\n\n\n✔️\n\n\n\n\nADSN conference banner sponsor\n\n\n✔️\n\n\n✔️\n\n\n✔️\n\n\n✔️\n\n\n\n\nDigital graphics to share\n\n\n✔️\n\n\n✔️\n\n\n✔️\n\n\n✔️\n\n\n\n\nLogo across conference materials\n\n\n✔️\n\n\n✔️\n\n\n✔️\n\n\n✔️\n\n\n\n\nPromotion via ADSN social media\n\n\n✔️\n\n\n✔️\n\n\n✔️\n\n\n\n\n\n\nConference passes\n\n\n3\n\n\n2\n\n\n2\n\n\n1\n\n\n\n\nPull-up banners\n\n\n3\n\n\n2\n\n\n1\n\n\n1\n\n\n\n\nParticipation in conference program (e.g. industry talk or panel representation)\n\n\n1\n\n\n1\n\n\n\n\n\n\n\n\nFull trestle table\n\n\n1"
-  },
-  {
-    "objectID": "destination.html",
-    "href": "destination.html",
-    "title": "Destination",
+    "objectID": "organisers.html#local-organising-committee",
+    "href": "organisers.html#local-organising-committee",
+    "title": "Organising Committee",
     "section": "",
-    "text": "ABS House is located at 45 Benjamin Way, Belconnen, Canberra, ACT 2617.\nThe conference will be held in the Knibbs Lecture Theatre. The venue is wheelchair accessible, however if you have any questions or additional requirements, please get in touch with the conference chair Ben Harrap\n\n\nThe conference venue is a 10-minute drive from the CBD or a 20-minute drive from the Canberra Airport.\nThere are many car parks nearby, including at the Westfield Shopping Centre.\n\n\n\n\n\nIf you’re staying in the Canberra CBD area, you can catch routes 2, 3, 4, 5, and 6 from Alinga Street to the Belconnen Bus Interchange. ABS House is just around the corner. To use public transport in Canberra you can simply tap on with a Visa or Mastercard card or use a MyWay+ card or the app.\n\n\n\nE-bikes and e-scooters are available through Lime Micromobility, but we wouldn’t recommend scooting from the CBD!"
+    "text": "Ben Harrap\nChair\n\n\n\n\nRachel Barker\nMember"
   },
   {
-    "objectID": "destination.html#venue",
-    "href": "destination.html#venue",
-    "title": "Destination",
-    "section": "",
-    "text": "ABS House is located at 45 Benjamin Way, Belconnen, Canberra, ACT 2617.\nThe conference will be held in the Knibbs Lecture Theatre. The venue is wheelchair accessible, however if you have any questions or additional requirements, please get in touch with the conference chair Ben Harrap\n\n\nThe conference venue is a 10-minute drive from the CBD or a 20-minute drive from the Canberra Airport.\nThere are many car parks nearby, including at the Westfield Shopping Centre.\n\n\n\n\n\nIf you’re staying in the Canberra CBD area, you can catch routes 2, 3, 4, 5, and 6 from Alinga Street to the Belconnen Bus Interchange. ABS House is just around the corner. To use public transport in Canberra you can simply tap on with a Visa or Mastercard card or use a MyWay+ card or the app.\n\n\n\nE-bikes and e-scooters are available through Lime Micromobility, but we wouldn’t recommend scooting from the CBD!"
+    "objectID": "organisers.html#scientific-programming-committee",
+    "href": "organisers.html#scientific-programming-committee",
+    "title": "Organising Committee",
+    "section": "Scientific programming committee",
+    "text": "Scientific programming committee\n\n\n\nGentry White\nChair\n\n\n\n\nGarth Tarr\nMember\n\n\n\n\nNicola Armstrong\nMember\n\n\n\n\nMythreyi Velmurugan\nMember\n\n\n\n\n\nAndrzej Janusz\nMember\n\n\n\n\nFlavio Pileggi\nMember"
   },
   {
-    "objectID": "destination.html#accommodation",
-    "href": "destination.html#accommodation",
-    "title": "Destination",
-    "section": "Accommodation",
-    "text": "Accommodation\nThere are many accommodation options, both in Belconnen near the conference venue, and in the Canberra CBD.\nWe have arranged discounted accommodation for conference attendees at the Mercure Canberra Belconnen. Delegates are eligible for a discounted nightly rate of $185:\n\nBooking link: https://all.accor.com/hotel/B390/index.en.shtml\nBooking code: BGPG"
-  },
-  {
-    "objectID": "workshop.html",
-    "href": "workshop.html",
-    "title": "Modern Data Linkage Methods and Implementation Using Splink",
-    "section": "",
-    "text": "Linked data assets, such as the Person Level Integrated Data Asset (PLIDA), are a rich source of information, allowing the analysis of interconnected systems such as healthcare, government services, education, and taxation. But the creation of these assets is not always straightforward, as often there is not a deterministic way of identifying individuals across datasets, such as with a unique identifier. Probabilistic data linkage methods can help resolve this problem by comparing fields common across datasets and give an estimate of how likely two records belong to the same individual.\nThis one-day pre-conference workshop on probabilistic linking using the Python package Splink will cover:\nThe workshop will be presented by Aymon Wuolanne and Daniel Fearnley, from the Data Linking Methodology section in the Australian Bureau of Statistics (ABS). They work on the development and productionisation of Splink at the ABS, which is used to produce data assets like PLIDA.\nNo prior background in probabilistic linking theory is required, although a basic understanding of Python is recommended.\nThis workshop is open to everyone, not just conference delegates."
-  },
-  {
-    "objectID": "workshop.html#registration-information",
-    "href": "workshop.html#registration-information",
-    "title": "Modern Data Linkage Methods and Implementation Using Splink",
-    "section": "Registration information",
-    "text": "Registration information\nRegister for the workshop here\nWorkshop pricing:\n\n$500 for non-SSA members\n$250 for SSA members\n$150 for students\n\nRegistrations include catering for the full day. Attendees are to bring their own laptops."
-  },
-  {
-    "objectID": "workshop.html#presenters",
-    "href": "workshop.html#presenters",
-    "title": "Modern Data Linkage Methods and Implementation Using Splink",
-    "section": "Presenters",
-    "text": "Presenters\n\nDaniel Fearnley\n\n\nDaniel joined the ABS in 2011, and has spent the last 3 years in Data Linking Methodology where he has led the team responsible for assessing the feasibility of the probabilistic linkage tool Splink, and the transition to using Splink as the default linking tool for all ABS person-level linkages. His team won the 2026 APS Data Award in Data System and Innovation for their work on Splink. Outside of work, Daniel enjoys cooking and running (because he likes cooking) and earlier this year he and his wife watched every game of the FIFA World Cup.\n\n\n\n\n\n\n\n\nAymon Wuolanne\n\n\nAymon joined the ABS as a graduate in 2022 and is currently a methodologist in Data Linking Methodology. In 2025 he won the Ken Foreman Award for his work on building the Person Linkage Spine using Splink, and was a member of the team that won the 2026 APS Data Award in Data System and Innovation for their work on Splink. Outside of work, Aymon enjoys walking, reading, video games and running much slower than Daniel."
-  },
-  {
-    "objectID": "abstract.html",
-    "href": "abstract.html",
-    "title": "Abstract submission",
-    "section": "",
-    "text": "Abstract submissions have closed! Thank you to everyone who submitted, we’ll be announcing the results in early September."
-  },
-  {
-    "objectID": "abstract.html#key-information",
-    "href": "abstract.html#key-information",
-    "title": "Abstract submission",
-    "section": "Key information",
-    "text": "Key information\nThe theme of the conference is “From Data to Decisions”, however we invite submissions of abstracts for contributed talks and posters across all areas of data science, including but not limited to:\n\nHealth and biomedical data science\nData reuse, linkage, and secondary data sources\nEnvironmental and agricultural data science\nStatistical modelling, machine learning and AI\nData visualisation, interpretability, and explainability\nData platforms, tools and infrastructure\nUrban, geospatial and remote sensing analytics\nEthics, privacy and data governance\nDigital humanities and social science\nIndustry and government applications\n\nFollow the ADSN on LinkedIn or subscribe to the newsletter to stay up-to-date."
-  },
-  {
-    "objectID": "codeofconduct.html",
-    "href": "codeofconduct.html",
-    "title": "Code of Conduct",
-    "section": "",
-    "text": "The organisers of the Australian Data Science Network Conference 2026 are committed to providing a conference that is welcoming and safe for all participants, is free from unlawful discrimination and harassment, and where all participants are treated with dignity and respect. Harassment is unlawful under both federal and all Australian state anti-discrimination laws, and as such, people suspected of such misconduct may be reported to authorities. Adherence to this Code of Conduct is a requirement for all conference participants and sponsors, and covers all aspects of this conference, including conference sessions and breaks, all social events and all communication, including that via email or social media (including but not limited to Facebook and X (formerly Twitter)) associated with the conference. Unacceptable behaviour includes, but is not limited to:\nTo report violations of this Code of Conduct, alert a member of the Response Team (names and contact details listed below). Reports may be made by people subject to, or witnesses of, unacceptable behaviour."
-  },
-  {
-    "objectID": "codeofconduct.html#code-of-conduct-response-team",
-    "href": "codeofconduct.html#code-of-conduct-response-team",
-    "title": "Code of Conduct",
-    "section": "Code of Conduct Response Team",
-    "text": "Code of Conduct Response Team\n[In this section list the names, email addresses, and if appropriate, telephone numbers, of people tasked with responding to reports of violations of the Code. At least two people must be listed, but ideally there will be several listed contacts, from a variety of institutions/workplaces, including both men and women. The list should include, but is not limited to, conference/meeting organisers. Ideally members of this response team will have some training in dealing with reports of harassment.]\nFor example: Abba B Abbason, Senior Lecturer at Stats University. Email:…, Phone number:….\nIf an individual participates in unacceptable behaviour, the Response Team may take lawful action that they deem appropriate, including asking the individual to stop or removal of the individual from the [conference/event/meeting] without refund of registration and/or other applicable fees. Reports of unacceptable behaviour may be communicated to the Statistical Society of Australia, and individuals who participate in unacceptable behaviour may face consequences including being disallowed from attending future events. Individuals who are ejected will not be allowed to give any planned oral or poster presentations, and their place may be allocated to another attendee. The reason for the replacement presentation may also be announced (e.g., “Professor X has violated this event’s code of conduct and has been asked to leave and therefore will not be able to present today, in their place we will instead hear from …”). Violations may be reported to the individual’s employer or research funders. Statistical Society of Australia members may have their membership cancelled without refund of membership fees.\nAll efforts will be made to protect the anonymity of persons reporting violations. Persons reporting violations of the Code may request that their report remain confidential and that no further action be taken. However, if the Code of Conduct Response Team deems it necessary for the safety of event attendees, action will be taken, including referral of the report to the Statistical Society of Australia. This Code of Conduct is designed to ensure that this event can be enjoyed by all participants.\nWe hope you have an inspiring and enjoyable time."
-  },
-  {
-    "objectID": "registration.html",
-    "href": "registration.html",
-    "title": "Registration",
-    "section": "",
-    "text": "Registrations for the conference are made through the Statistical Society of Australia’s website.\nPrice structure:\n\nSSA members\n\nEarly bird $300\nStandard $350\n\nNon-SSA members\n\nEarly bird $350\nStandard $400\n\nStudents\n\nEarly bird $150\nStandard $175\n\n\nEarly bird pricing is available until the end of August.\nAll registrations include attendance for both days of the conference and the conference social event. The pre-conference workshop requires separate registration, see below for more details."
-  },
-  {
-    "objectID": "registration.html#conference",
-    "href": "registration.html#conference",
-    "title": "Registration",
-    "section": "",
-    "text": "Registrations for the conference are made through the Statistical Society of Australia’s website.\nPrice structure:\n\nSSA members\n\nEarly bird $300\nStandard $350\n\nNon-SSA members\n\nEarly bird $350\nStandard $400\n\nStudents\n\nEarly bird $150\nStandard $175\n\n\nEarly bird pricing is available until the end of August.\nAll registrations include attendance for both days of the conference and the conference social event. The pre-conference workshop requires separate registration, see below for more details."
-  },
-  {
-    "objectID": "registration.html#pre-conference-workshop",
-    "href": "registration.html#pre-conference-workshop",
-    "title": "Registration",
-    "section": "Pre-conference workshop",
-    "text": "Pre-conference workshop\nThe pre-confernece workshop, Modern Data Linkage Methods and Implementation Using Splink, is open for registrations! See the workshop page for more details.\nFollow the ADSN on LinkedIn or subscribe to the newsletter to stay up-to-date."
+    "objectID": "organisers.html#web-team",
+    "href": "organisers.html#web-team",
+    "title": "Organising Committee",
+    "section": "Web team",
+    "text": "Web team\n\n\n\nMaliny Po\n\n\n\n\nMinh Nguyen"
   }
 ]

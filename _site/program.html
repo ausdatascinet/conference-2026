@@ -105,10 +105,21 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./workshop.html"> 
 <span class="menu-text">Workshop</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="./program.html" aria-current="page"> 
-<span class="menu-text">Conference Program</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-conference-program" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Conference Program</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-conference-program">    
+        <li>
+    <a class="dropdown-item" href="./schedule.html">
+ <span class="dropdown-text">Schedule</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./program.html">
+ <span class="dropdown-text">Program</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./destination.html"> 
 <span class="menu-text">Destination</span></a>
@@ -184,6 +195,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p>See the <a href="./schedule.html">schedule</a> for session timing.</p>
 <p>Stay tuned for program announcements! Follow the <a href="https://www.linkedin.com/company/australiandata/">ADSN on LinkedIn</a> or <a href="https://australiandatascience.net/subscribe-to-newsletter/">subscribe to the newsletter</a>.</p>
 <section id="keynotes" class="level2">
 <h2 class="anchored" data-anchor-id="keynotes">Keynotes</h2>

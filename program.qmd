@@ -2,6 +2,8 @@
 title: "Conference Program"
 ---
 
+See the [schedule](schedule.qmd) for session timing.
+
 Stay tuned for program announcements! Follow the [ADSN on LinkedIn](https://www.linkedin.com/company/australiandata/) or [subscribe to the newsletter](https://australiandatascience.net/subscribe-to-newsletter/).
 
 ## Keynotes
