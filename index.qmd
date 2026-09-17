@@ -26,10 +26,12 @@ Want to find out more about sponsoring the conference? Head over to the [sponsor
 
 ## Key information
 
--   The conference will be held over the 26th & 27th of November, at ABS House in Belconnen, Canberra
--   [Abstract submissions](./abstract.qmd) have closed! Results will be announced in early September
+-   The conference will be held over the 26th & 27th of November, at ABS House in Belconnen, Canberra.
+-   The [pre-conference workshop](./workshop.qmd) 'Modern Data Linkage Methods and Implementation Using Splink' runs on the 25th of November.
 -   The [social night](./program.qmd#social-night) is included with all registrations
--   To reduce waste, we're asking attendees to bring their own lanyards
+-   [Abstract submissions](./abstract.qmd) have closed! Thank you to all those who submitted.
+-   To reduce waste, we're asking attendees to bring their own lanyards.
+-   Building security require **all conference attendees to bring a photo ID** in order to be provided access to the conference venue.
 
 ## Australasian Applied Statistics Conference 2026
 
