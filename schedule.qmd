@@ -61,6 +61,7 @@ program <- read_csv("resources/program.csv", col_types = "ccccc") |>
         "</div>",
         "</details>"
       ),
+      category %in% c("social","procedural", "workshop", "panel") ~ name,
       !is.na(name) ~ paste0(
         name,
         "<br><br><details><summary>Abstract</summary>",
