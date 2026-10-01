@@ -14,10 +14,10 @@ website:
         href: workshop.qmd
       - text: Conference Program
         menu: 
-          - text: Schedule
-            href: schedule.qmd
           - text: Program
             href: program.qmd
+          - text: Schedule
+            href: schedule.qmd
       - text: Destination
         href: destination.qmd
       - text: Registration

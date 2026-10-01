@@ -1,0 +1,191 @@
+title,authors,presenting,theme,keywords,abstract
+Sciget.org: Developing a national Virtual Research Environment for data analytics,"<strong>Steffen Bollmann</strong><sup>1</sup>
+Aswin Narayanan<sup>1</sup>
+Glen Charlton<sup>2</sup>
+Long Le<sup>2</sup>
+Gnana K Bharathy<sup>3</sup>
+Aleem Uddin<sup>3</sup>
+Elleina Filippi<sup>3</sup>
+Celia Loneragan<sup>3</sup>
+Mona Bojamma<sup>3</sup>
+Jayadeep Jacob<sup>3</sup>
+
+1\.  University of Queensland
+2\.  Intersect Australia
+3\.  Australian Research Data Commons",Steffen Bollmann,ardc,"Virtual Research Environment, Containerization, Cloud Computing","Australian researchers contend with fragmented AI/ML infrastructure, limited GPU access, incompatible software installations, and no consistent governance for sensitive data.
+
+Here we present the design and first delivery phase of a national Virtual Research Environment (VRE): a portable, containerised platform delivering advanced analytics and AI capabilities. The Sciget.org VRE combines an automated container build system, a federated software distribution network based on CERN Virtual Machine File System (CERN VM-FS) (a web-based, global versioning file system optimised for software distribution), GPU-enabled compute, and a virtual desktop. Privacy-preserving large language models offer in-environment coding support.
+
+A three-tier architecture matches security to data sensitivity: open environments for public datasets and early-career training, application-level ISO 27001-aligned environments for moderately sensitive health data, and a foundation for future Trusted Research Environments. We demonstrate an exemplar VREs for the Australian microscopy and the AI/ML community supporting data science and advanced analytics workflows."
+Advanced Analytics and AI Resources Hub: Enabling Data-Driven Decisions in Health Research,"<strong>Divya Mehta</strong><sup>1</sup>
+Bernadette Hyland-Wood<sup>2</sup>
+Alberto Nettel Aguirre<sup>3</sup>
+Jessie Roberts<sup>1</sup>
+Michael Guihot<sup>1</sup>
+Catarina Pinto Moreira<sup>4</sup>
+Dimitri Perrin<sup>1</sup>
+Olivier Salvado<sup>1</sup>
+Kerrie Mengersen<sup>1</sup>
+Gnana Bharathy<sup>5</sup>
+<strong>Nicola Armstrong</strong><sup>3</sup>
+
+1\.  Queensland University of Technology
+2\.  Curtin University
+3\.  University of Technology Sydney
+4\.  Australian Research Data Commons","Divya Mehta, Queensland University of Technology, and 
+Nicola Armstrong, Curtin University",ardc,"advanced analytics, digital infrastructure, health","In 2023, the Australian Research Data Commons (ARDC) launched a national digital research infrastructure initiative to strengthen Australia's capacity for digital health research and translation. As part of this program, an ARDC-ADSN collaboration undertook a comprehensive assessment of current digital health infrastructure, including computing capability, data availability, analytics methods, and accessibility. This work identified critical national research infrastructure (NRI) requirements needed to support advanced health data analytics and informed the design of a national framework.
+
+Building on insights from Phase 1, which engaged researchers, government stakeholders and industry partners, Phase 2 applied a structured, collaborative, co-design methodology to develop a sustainable Resource Hub aligned with national health research priorities and the ARDC Advanced Analytics Reference Architecture. The approach was organised around five thematic areas, each addressing a key component of the digital infrastructure stack.
+
+This presentation will provide an overview of the project and summarise the major findings from this work."
+A Data-Driven Framework for Quantifying Airspace Risk Across Australia,"<strong>Aaron McFadyen</strong>
+Guilherme Froes Silva
+Peter Smith
+Jason Brown",Aaron McFadyen,Decision Support,"Airspace risk modelling, Geospatial analytics, Decision support","Turning heterogeneous spatial and temporal data into defensible decisions is a challenge across many sectors. The Australian Digital Airspace Characterisation (ADAC) project, led by QUT with Boeing and FlyFreely, shows how a national-scale, data-driven framework can turn billions of observations into transparent, quantitative insights informing operational planning and policy.
+
+ADAC evaluates over 800 billion proximity events across more than 200 billion locations spanning Australia and its coastlines, integrating satellite and terrestrial sources with aeronautical, terrain, obstacle, population and land-use data. Through advanced statistical and probabilistic modelling, it produces continuous, high-resolution estimates rendered as interactive national-scale maps.
+
+The presentation covers ADAC's methods and decision-support applications: computational architecture for continental-scale modelling, rare-event methods for quantifying uncertainty in sparse-observation environments, and visualisation turning outputs into actionable maps. We illustrate impact through case studies in health logistics, emergency services, and resource operations, and note stakeholder engagement with CASA."
+From Principles to Decisions: An End-to-End GenAI Evaluation Framework,"<strong>Najmeh Samadiani</strong><sup>1</sup>
+Ilana Lichtenstein<sup>1</sup>
+
+1\.  Australian Bureau of Statistics, Melbourne, Australia",Najmeh Samadiani,Decision Support,"Generative AI, Evaluation, Large Language Model (LLM), End-to-end process","Government agencies are increasingly adopting Generative AI(GenAI) to improve public services and information dissemination. However, the variable and context-dependent behaviour of large language models makes it difficult to determine whether these systems are safe, reliable and ready for deployment.While Responsible AI principles provide high-level guidance, practical methods for operationalising them remain limited across the public sector.
+
+This work presents a reusable, end-to-end GenAI Evaluation Framework that supports responsible deployment decisions.The framework combines domain-driven scenario design, automated generation of evaluation datasets, and LLM-as-Judge scoring to assess quality, performance and safety across measures including relevance, grounding, clarity, accuracy, tone, confidentiality and toxicity. Using a Census chatbot as a case study, we demonstrate how the framework transforms evaluation from an ad hoc activity into a continuous, structured and evidence-based process. By bridging Responsible AI principles and engineering practice, it provides a scalable approach for assessing GenAI systems and supporting trustworthy deployment decisions across government."
+Artificial Intelligence for Medical Imaging: Enhancing Diagnostic Accuracy Through Deep Learning,"<strong>Zaenab Alammar</strong><sup>1,2</sup>
+Laith Alzubaidi<sup>2,3</sup>
+Jinglan Zhang<sup>1,2</sup>
+
+1\.  School of Computer Science, Queensland University of Technology, Brisbane, Australia
+2\. Centre for Data Science, Queensland University of Technology, Brisbane, Australia
+3\.  School of Mechanical, Medical, and Process Engineering, Queensland University of Technology, Brisbane, Australia",Zaenab Alammar,Decision Support,"Deep Learning, CNN, Feature Fusion","Medical image analysis is increasingly benefiting from artificial intelligence (AI), offering opportunities to improve diagnostic accuracy and clinical decision-making. This research investigates deep learning approaches for automated classification of medical X-ray images, focusing on musculoskeletal and chest radiographs.
+
+The study combines transfer learning, feature fusion, and attention-based convolutional neural networks to enhance feature extraction and classification performance. Semi-supervised learning techniques were also explored to address limited labelled data. The proposed frameworks were evaluated on multiple datasets, including abnormality detection in musculoskeletal X-rays and classification of chest X-rays containing COVID-19, pneumonia, tuberculosis, and normal cases.
+
+Results demonstrated high classification accuracy and improved model robustness. Explainable AI techniques were applied to visualise regions influencing model predictions, supporting transparency and clinical trust. The findings demonstrate the potential of AI-assisted diagnostic systems to improve healthcare outcomes and support future clinical implementation.
+
+"
+Bridging Digital Health Innovation and Data Governance: Lessons from Accessing Statewide Electronic Medical Records for Secondary Research,"<strong>Danyang Dai</strong><sup>1</sup>
+Pedro Franca Gois<sup>2,3,4</sup>
+Sally Shrapnel<sup>5</sup>
+SMART Hub<sup>1</sup>
+Jason D. Pole<sup>1</sup>
+
+1\.  Queensland Digital Health Centre, The University of Queensland, Brisbane, Australia
+2\.  Faculty of Health, Medicine & Behavioural Sciences, University of Queensland, Brisbane, Australia
+3\.  Nephrology and Transplantation, John Hunter Hospital, Newcastle, NSW, Australia
+4\.  School of Biomedical Sciences and Pharmacy, University of Newcastle, Newcastle, NSW, Australia
+5\.  School of Mathematics and Physics, University of Queensland, Queensland, Australia",Danyang Dai,Decision Support,"ieMR, data access","Digital health systems generate vast clinical data, creating opportunities for evidence-based policy, planning, and care. Queensland's integrated electronic Medical Record (ieMR) system offers a valuable platform for population-scale research and secondary data use. This presentation explores the pathway from data availability to decision-making through a case study of accessing de-identified ieMR data for research. Despite mature infrastructure and established partnerships, approvals took nearly two years due to fragmented ethics governance, lengthy Public Health Act processes, and concerns about data scale. The experience shows that evidence generation depends not only on analytical capability but also on governance, stakeholder trust, and social licence. Beyond legal compliance, researchers must demonstrate public benefit and responsible data stewardship. Streamlined governance, transparent engagement, and trusted access frameworks are essential to bridging the gap between technical capability and practical data use, enabling the full value of health data to support research, policy, and innovation"
+Multi-Model Ensemble for Automated Longitudinal Electronic Health Records Summarisation in General Practice,"Vu Thinh Doan<sup>1,2</sup>, 
+Bocheng Li<sup>3,4</sup>, 
+Jiayue Guo<sup>5</sup>, 
+Hsieh-Chih Hsu<sup>1</sup>, 
+Hong-Jie Dai<sup>1,6</sup>, 
+<strong>Jitendra Jonnagaddala</strong><sup>7,8</sup> 
+
+1\. Intelligent System Laboratory, Department of Electrical Engineering, College of Electrical Engineering and Computer Science, National Kaohsiung University of Science and Technology, Kaohsiung, Taiwan
+2\. Nha Trang University, KhanhHoa, Vietnam
+3\. WHO Family of International Classification Collaborating Centre, Beijing, China
+4\. Department of Medical Record, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, China
+5\. School of Health Policy and Management, Chinese Academy of Medical Sciences & Peking Union Medical College
+6\. National Institute of Cancer Research, National Health Research Institutes, Tainan, Taiwan
+7\. Discipline of General Practice, School of Clinical Medicine, UNSW Sydney, Kensington, Australia
+8\. SREDH Consortium, Sydney, Australia",Jitendra Jonnagaddala,Decision Support,"Longitudinal EHR Summarisation, Electronic Health Records, Multimorbidity.","General practice (GP) clinicians managing multimorbidity face burden from fragmented records. Automated longitudinal EHR summarization is underexplored. This study introduces an AI pipeline to evaluate accuracy, completeness, and utility. We adapted ACSQHC Summary guidelines for GP. The pipeline integrates rule-based extraction with LLM ensembles coordinated by a validation agent enforcing schema constraints. Deployed locally on 2,232 multimorbidity patients from GPs in South West Sydney, two clinicians reviewed 500 for error and utility via adjudication. Single-model ablation variants were benchmarked against metrics. All 2,232 records achieved 99.88% validity. For 1,500 instances: inaccuracy 2.8%, hallucination 9.7%, omission 10.5%. Omission peaked in DIAGNOSES (15.0%), hallucination in CLINICAL SUMMARY (12.1%). Utility rated 4/5 by reviewers. Ensemble designs proved more balanced than single-model variants. Automated EHR summarization in GP is feasible with local LLM ensembles but mitigating omission and hallucination remains a challenge. This study establishes a reproducible framework, demonstrating tangible improvements in multimorbidity care via adapted guidelines.
+"
+Bayesian Adaptive Sampling Design and Decision Support Tools for Ecologists,"<strong>Owen Forbes</strong><sup>1</sup>
+Andrew G. Young<sup>1</sup>
+Peter H. Thrall<sup>1</sup>
+Cheng Soon Ong<sup>2</sup>
+
+1\.  National Research Collections Australia, CSIRO
+2\.  Technology, CSIRO",Owen Forbes,Environment,"ecology, sampling design, Bayesian adaptive design","Ecological sampling and research prioritisation strategies tend to be guided by local expertise and individual research programs, rather than optimised against explicit, quantitative objectives. A broad family of Bayesian adaptive design methods has the potential to add value across ecological sampling contexts, but remains underutilised. Paired with accessible decision support tools, these methods offer evidence-based approaches to recurring allocation problems in ecology: deciding where and what to sample, which specimens to prioritise for digitisation from collection backlogs, or where to triage conservation information-gathering given national biodiversity priorities. 
+
+We map the landscape of Bayesian adaptive design methods, distinguishing approaches by goal and utility function - including Value of Information methods, information-theoretic approaches targeting model improvement, and sequential allocation for yield maximisation. Worked examples illustrate practical applications, including expected information gain for wombat sampling design, Rényi entropy search for African lovegrass distribution modelling, and species discovery in Australian weevils using bandit algorithms."
+Spatial Conservation Prioritisation for Matters of National Environmental Significance,"<strong>Dr Kevin D Newman</strong><sup>1</sup>
+<strong>Randall Barry</strong><sup>1</sup>
+Dr Sarah E Stock<sup>1</sup>
+Jennifer Dubois<sup>1</sup>
+Cassandra Malley<sup>1</sup>
+Dr Dan Rogers<sup>1</sup>
+Belinda Allison<sup>1</sup>
+
+1\.  Department of Climate Change, Energy, the Environment and Water",Dr Kevin D Newman & Randall Barry,Environment,"Environment, Biodiversity, Prioritisation","As an authoritative source for national information about Australia's environment, Environment Information Australia (EIA) publishes geospatial data on where nationally threatened species habitat is likely to occur and how many unique species are predicted to occur in a specific area. This information is used to guide planning and prioritisation of government investment in protection, conservation, and restoration of threatened species and their habitat. Spatial conservation prioritisation (SCPr) integrates the spatial distribution of species with other biodiversity data to produce national-scale prioritisation products. EIA is applying SCPr across multiple use cases including the recently published Relative habitat importance for threatened and migratory species dataset to identify high-priority areas across Australia for nationally threatened biodiversity, offering a consistent and reproducible evidence base to support environmental decision-making. These analyses complement existing regulatory frameworks by providing spatial tools that can inform strategic planning and investment prioritisation in an evolving policy landscape to protect Australia's most threatened biodiversity."
+From satellite data to preventative decisions: operationalising remote sensing to reduce sediment pollution risk from urban development,"<strong>Adam Gruer</strong><sup>1</sup>
+Dr Elisa Boera<sup>1</sup>
+Dr Timothy L Coggan<sup>1</sup>
+Dr Kathryn Russell<sup>2</sup>
+
+1\.  EPA Victoria
+2\.  University Of Melbourne",Adam Gruer,Environment,"sentinel-2, Regulation, Pollution","Construction-related earthworks are a persistent source of sediment pollution in urban growth areas, particularly when site preparation and bulk earthworks expose large areas of bare soil on site without appropriate preventative control measures. Regulatory responses are often triggered after environmental harm has occurred. Prevention capabilities are limited by currently available information. 
+This presentation describes how EPA Victoria and University of Melbourne combined satellite imagery, geospatial analytics and environmental science into an operational decision-support capability for proactive, preventative risk-based regulation.
+
+The project developed and evaluated a passive, large-scale monitoring system for detecting land disturbance and earthworks at greenfield development sites. The system uses freely available Sentinel-2 imagery and automated analysis of spectral indices to detect bulk earthworks and site preparation activities.
+
+The system provides a practical pathway for EPA Victoria decision makers to prioritise inspections, engage duty holders, share intelligence with local government and other partners, and improve erosion and sediment control outcomes."
+A Bayesian Multi-Stage Ensemble for Detecting Bats and Raptors from Radar Data,"<strong>Soudabeh Shemehsavar</strong><sup>1</sup>
+Patricia A. Fleming<sup>2</sup>
+Jill Shephard<sup>3</sup>
+Abderraouf Amrani<sup>4</sup>
+Graeme Hocking<sup>1</sup>
+
+1\.  School of Mathematics, Statistics, Chemistry and Physics, Murdoch University, Perth, WA.
+2\.  School of Environmental and Conservation Sciences, Murdoch University, Perth, WA.
+3\.  Harry Butler Institute, Murdoch University, Perth, WA.
+4\.  School of Information Technology, Murdoch University, Perth, WA.",Soudabeh Shemehsavar,Environment,Robin Radar; semi-supervised learning; collision risk assessment,"Wind turbine developments in remote arid environments require reliable monitoring of aerial fauna to manage collision risk. Robin Radar systems deployed in the Pilbara region track thousands of airborne objects, but their onboard classifier distinguishes targets mainly by body size, giving limited species-level information. Estimating species-specific collision probability, essential for impact assessment and compliance, depends on resolving this identification gap.
+
+This study presents a multi-paradigm ML framework converting radar tracks into species-level classifications. Preprocessing removes clutter and non-biological detections, corrects airspeeds using wind profiles, and adjusts for detection bias. A Bayesian Ensemble integrates unsupervised clustering of body signatures, semi-supervised self-training on flight kinematics, and supervised discriminant analysis of track context, fusing posteriors via Bayesian log-odds with retained uncertainty.
+
+The framework identifies micro-bats, ghost bats, and wedge-tailed eagles from nocturnal and diurnal tracks, flagging conflicting detections for review and enabling species-level collision-risk assessment in arid landscapes."
+Predicting Custodial Length of Stay for Women in NSW,"<strong>Lily Duck</strong><sup>1</sup>
+Associate Professor Garth Tarr<sup>1</sup>
+Dr Evarn Ooi<sup>2</sup>
+Lisa Dixon<sup>3</sup>
+
+1\.  School of Mathematics and Statistics, University of Sydney
+2\.  Operational Systems and Integrity, Office of the Commissioner, Corrective Services NSW
+3\.  Aboriginal Strategy and Policy Unit, Corrective Services NSW",Lily Duck,Industry,"Predictive modelling, women in custody, length of stay","Women in custody experience distinct pathways, needs and offence patterns, and Aboriginal and Torres Strait Islander women are overrepresented in custody. This study investigates whether custodial length of stay can be predicted for women entering custody prior to sentencing using offence, legal history and demographic information. The project is a collaboration between the University of Sydney and Corrective Services NSW, in partnership with MobReady, an Aboriginal-owned organisation supporting women around release from custody. Using Corrective Services NSW's Offender Integrated Management System and the NSW Bureau of Crime Statistics and Research Re-offending Database, we compare a variety of regression and machine-learning methods to predict length of stay in custody using information available at reception, when approximately 88% of women are unsentenced. Models are evaluated within a consistent predictive framework, and a simulation study is used to validate feature selection methods. The resulting prediction framework could support evidence-based case management, service planning, and pre- and post-release support for women in custody in NSW."
+A Bayesian Ensemble Projection of Climate Change and Technological Impacts on Future Crop Yields,"<strong>Dan Li</strong><sup>1</sup>
+Vassili Kitsios<sup>2</sup>
+David Newth<sup>2</sup>
+Terence O'Kane<sup>2</sup>
+
+1\.  Queensland University of Technology
+2\.  CSIRO",Dan Li,Industry,"climate change, food security, uncertainty quantification","This work introduces a Bayesian hierarchical modeling framework within a fully probabilistic setting for crop yield estimation, model selection, and uncertainty forecasting under multiple future greenhouse gas emission scenarios. By informing on regional agricultural impacts, this approach addresses broader risks to global food security. Extending an established multivariate econometric crop-yield model to incorporate country-specific error variances, the framework systematically relaxes restrictive homogeneity assumptions and enables transparent decomposition of predictive uncertainty into contributions from climate models, emission scenarios, and crop model parameters. In both in-sample and out-of-sample analyses focused on global wheat production, the results demonstrate significant improvements in calibration and probabilistic accuracy of yield projections. These advances provide policymakers and stakeholders with detailed, risk-sensitive information to support the development of more resilient and adaptive agricultural and climate strategies in response to escalating climate-related risks."
+"DROVER: a beef-sector CGE for supply-shock decisions, run from an ordinary chatbot","<strong>Alex Cooper</strong>
+Matt van der Saag",Alex Cooper,Industry,"Agricultural Economics, Iran Crisis, Model Context Protocol","Computable general equilibrium models trace shocks through an economy. We built one for Australia's beef sector, called DROVER. It models herds, feed, processing, and trade, for livestock stakeholders facing a crisis.
+
+We work through two decisions. First, an animal phase down against a fuel or food supply interruption known in advance. When feed cannot reach animals, some will be lost, and the model helps size and schedule the phase down to preserve breeding stock and downstream processing capacity. The second aims to avoid the phase down entirely. Here the model plans grain importation, sizing port and storage infrastructure against the cost and lead time of building it.
+
+The second thread of the talk is about who can drive the model. This kind of analysis has sat behind a programming barrier that ties the decision-maker to a human modeller. With the Model Context Protocol running in code mode, a user poses scenarios in plain language, revised as questions sharpen, resulting in a policy brief. These tools already sit on every executive's desktop. In a live session we work from question to brief, then discuss the impact of decision owners manipulating the model themselves."
+Before the Failure: Predictive Fault Detection in Multistage Printhead Manufacturing,"<strong>Aaron Gibson</strong><sup>1</sup>
+Prof Spiridon Penev<sup>1</sup>
+A/Prof Pierre Lafaye de Micheaux<sup>1</sup>
+Prof Scott Sisson<sup>1</sup>
+A/Prof Samuel Mallinson<sup>1</sup>
+
+1\.  UNSW",Aaron Gibson-John,Industry,"Predictive fault detection, conformal prediction, multistage manufacturing","Multistage manufacturing processes (MMPs) such as thermal inkjet printhead production accumulate rich measurement data across successive assembly and test operations, yet most quality control remains reactive, identifying defective units only at the final tests. Classical statistical process control (SPC) monitors whether a process remains in control, but does not predict whether an individual unit will fail. This work develops methods for predictive fault detection at the level of the individual unit.
+
+A central challenge is selective labelling: units removed at early stages are not observed at later ones, so the available data reflect only those units that survive, biasing conventional predictive models. We investigate approaches based on stream-of-variation (SoV) modelling, conformal prediction and machine learning techniques to detect incipient faults while providing calibrated, unit-level measure of uncertainty. Using data from an industrial manufacturing execution system, we evaluate these methods against standard baselines and discuss their implications for earlier, more reliable fault detection in high-volume manufacturing."
+DevOps Principles as data governance for an Aboriginal legal service,"<strong>Aaron Willcox</strong><sup>1</sup>
+
+1\.  North Australian Aboriginal Justice Agency",Aaron Willcox,Infrastructure,"Data Governance, DevOps, Data Strategy","Legal-assistance data for an Aboriginal and Torres Strait Islander organisation must answer to two authorities at once: external accountability to government funders, and the data sovereignty of the community it serves. We present the design of a reproducible, open-source data pipeline that turns a transactional legal case-management system into statutory compliance reports. Our central argument is that computational reproducibility — and the DevOps culture of software engineering it borrows from is not merely an efficiency practice but a form of data governance in its own right.
+
+The pipeline is organised as a climb through levels of abstraction, following the DIKW progression: raw extracts (data) are transformed by business rules into curated records (information), aggregated into statutory measures (knowledge), and used to inform service and funding decisions (wisdom). A machine-readable operational specification acts as a single source of truth — documenting business rules, validating data, and making counting definitions testable rather than aspirational. Version control, automated testing, and continuous documentation operationalise governance decisions directly as code."
+From open-access ocean observations to environmental intelligence: enabling data-driven decisions through Australia's Integrated Marine Observing System,"<strong>Fabrice Jaine</strong><sup>1</sup>
+Mark Rehbein<sup>1</sup>
+Michelle Heupel<sup>1</sup>
+
+1\.  Integrated Marine Observing System, University of Tasmania, Hobart, Australia.",Fabrice Jaine,Infrastructure,"national infrastructure, FAIR data, ocean data","The Integrated Marine Observing System (IMOS) is Australia's national ocean observing research infrastructure, delivering sustained, open access observations of the marine environment through the National Collaborative Research Infrastructure Strategy (NCRIS). Over the past two decades, IMOS has generated more than 1.5 billion measurements spanning Australia's polar, temperate and tropical coastal and oceanic waters, creating a rich evidence base for research, industry and government.
+
+Through the Australian Ocean Data Network (AODN), IMOS provides access to more than 200 quality-controlled marine data collections, near real-time and historical ocean information, cloud-optimised datasets, and open-source Python and R tools that support scalable analytics, visualisation, integration and emerging AI applications.
+
+This talk will showcase how IMOS enables the transition from data to decisions by supporting environmental assessment, policy, and operational decision-making across climate science, oceanography, marine ecosystems, fisheries and coastal resilience. IMOS accelerates discovery, supports data-driven decisions, and unlocks broader societal, environmental and economic benefits."
+Museum Data Science: Collection Data Platform and Catalogues as Data,"<strong>Ingrid Mason</strong><sup>1</sup>
+
+1\.  National Museum of Australia",Ingrid Mason,Infrastructure,"Heritage informatics, Collections as data, Museum catalogues","This paper introduces ""Plexus"" the new National Museum of Australia collection data platform. This new data platform operates as part of middleware to support existing and new data and media flows for diverse ends and end-users as ""nerve centre"" for collection data architecture. 
+
+Highlights how the Museum as a domain producer of trusted collection data products and services is moving to an operational model that accords with two of the four data mesh concepts: data ownership and data as a product made available through an API layer for internal and external consumers. 
+
+Presents the Australian Institute of Anatomy (AIA) collection card catalogue as a case study. The AIA catalogue demonstrates the value of catalogues ""as data"" with multiple sources of data and layers of documentation generated by successive collection stewards over time and with multiple access controls. 
+
+References recent research ""exploring the perspectives of cultural heritage organisations on Collections as Data frameworks internationally."" Hymbel, Nyhan & Pearlman, Perspectives from Germany and Australia, Collections as Data Infrastructure https://doi.org/10.4324/9781003666530-6."

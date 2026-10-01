@@ -15,8 +15,20 @@ library(dplyr)
 library(lubridate)
 library(gt)
 
+abstracts <- read_csv("resources/abstracts.csv")
+
 program <- read_csv("resources/program.csv", col_types = "ccccc") |>
+  left_join(
+    abstracts,
+    by = c("theme"),
+    relationship = "many-to-many",
+  ) |>
   mutate(
+    session = case_when(
+      theme == "ardc" ~ session,
+      !is.na(theme) ~ paste0(session, ": ", theme),
+      .default = session
+    ),
     category = factor(
       category,
       levels = c(
@@ -30,60 +42,79 @@ program <- read_csv("resources/program.csv", col_types = "ccccc") |>
         "workshop"
       )
     ),
-    duration = case_when(
-      session == "Pre-conference workshop" ~ "",
-      .default = paste0(
-        "(",
-        time_length(hm(end) - hm(start), unit = "minutes"),
-        "min)"
-      )
+    duration = paste0(
+      "(",
+      time_length(
+        parse_date_time(end, orders = "%I:%M %p") -
+          parse_date_time(start, orders = "%I:%M %p"),
+        unit = "minutes"
+      ),
+      "min)"
+    ),
+    session = paste0(session, " ", duration),
+    title = case_when(
+      !is.na(abstract) ~ paste0(
+        title,
+        "<br><br><details><summary>Abstract</summary>",
+        "<div style='white-space:pre-wrap;'>",
+        abstract,
+        "</div>",
+        "</details>"
+      ),
+      !is.na(name) ~ paste0(
+        name,
+        "<br><br><details><summary>Abstract</summary>",
+        "<div style='white-space:pre-wrap;'>",
+        description,
+        "</div>",
+        "</details>"
+      ),
+      .default = NA
+    ),
+    authors = case_when(
+      !is.na(presenter) ~ presenter,
+      .default = authors
     )
   )
 
-make_program <- function(prog_day) {
+make_program <- function(program_date) {
   program |>
-    filter(date == ymd({{prog_day}})) |>
-    gt() |>
-    fmt_time(
-      columns = c(start, end),
-      time_style = "h_m_p"
+    filter(date == program_date) |>
+    select(
+      start,
+      category,
+      session,
+      title,
+      authors
     ) |>
-    cols_label(
-      start = "Time",
-      session = "Session",
-      duration = ""
+    gt(
+      groupname_col = c("start", "session"),
     ) |>
-    cols_align(align = "left", columns = c(start, session)) |>
-    cols_align(align = "center", columns = duration) |>
+    cols_hide(category) |>
+    sub_missing(columns = c(title, authors), missing_text = "") |>
+    tab_options(column_labels.hidden = TRUE) |>
     tab_style(
-      style = cell_text(size = px(13)),
-      locations = cells_body(columns = duration)
-    ) |> 
-    cols_hide(c(date, category, end)) |>
-    data_color(
-      columns = category,
-      target_columns = c(session, duration),
-      palette = c(
-        "#F6C7FF", # break
-        "#FFE982", # keynote
-        "#FFE982", # panel
-        "#FFE982", # posters
-        "#FFE982", # procedural
-        "#F6C7FF", # social
-        "#FFE982", # talks
-        "#FFE982" # workshop
+      style = css(height = "0px", padding = "0px", font.size = "0px"),
+      locations = cells_body(rows = is.na(title))
+    ) |>
+    tab_style(
+      style = css(
+        border.bottom.color = "#DEDEDE",
+        background.color = "#DEDEDE",
+        font.weight = "700"
       ),
-      levels = c(
-        "break",
-        "keynote",
-        "panel",
-        "posters",
-        "procedural",
-        "social",
-        "talks",
-        "workshop"
-      )
-    )
+      locations = cells_row_groups()
+    ) |>
+    tab_style(
+      style = css(white.space = "pre-wrap", vertical.align = "top"),
+      locations = cells_body(columns = c(title, authors))
+    ) |>
+    tab_options(table.layout = "fixed") |>
+    cols_width(
+      title ~ pct(50),
+      authors ~ pct(50),
+    ) |>
+    fmt_markdown(columns = c(title, authors))
 }
 ```
 
@@ -93,19 +124,19 @@ Session allocations will be announced soon!
 ### Wednesday 25th
 
 ```{r}
-make_program("2026-11-25")
+make_program("25/11/2026")
 ```
 
 ### Thursday 26th
 
 ```{r}
-make_program("2026-11-26")
+make_program("26/11/2026")
 ```
 
 ### Friday 27th
 
 ```{r}
-make_program("2026-11-27")
+make_program("27/11/2026")
 ```
 
 :::

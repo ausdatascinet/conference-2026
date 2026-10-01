@@ -1,23 +1,31 @@
-﻿date,start,end,category,session
-2026-11-25,09:30,16:30,workshop,Pre-conference workshop
-2026-11-25,18:00,21:00,social,Informal social gathering
-2026-11-26,08:30,09:30,procedural,Registration desk open
-2026-11-26,09:30,10:00,procedural,"Welcome to Country, opening address"
-2026-11-26,10:00,11:00,keynote,Keynote: Dr Emi Tanaka
-2026-11-26,11:00,11:30,break,Morning tea
-2026-11-26,11:30,12:30,panel,Panel session
-2026-11-26,12:30,13:30,break,Lunch
-2026-11-26,13:30,15:00,talks,Invited talks
-2026-11-26,15:00,15:30,break,Afternoon tea
-2026-11-26,15:30,16:00,talks,Invited talks
-2026-11-26,16:00,17:00,posters,Poster session
-2026-11-26,18:00,21:00,social,Conference social night
-2026-11-27,08:30,09:30,workshop,ARDC Workshop
-2026-11-27,09:45,10:45,talks,Invited talks
-2026-11-27,10:45,11:15,break,Morning tea
-2026-11-27,11:15,12:15,keynote,Keynote: Andrew Leigh MP
-2026-11-27,12:15,13:15,break,Lunch
-2026-11-27,13:45,14:45,talks,Invited talks
-2026-11-27,14:45,15:15,break,Afternoon tea
-2026-11-27,15:15,16:15,talks,Invited talks
-2026-11-27,16:15,16:30,procedural,Conference close
+﻿date,start,end,category,session,theme,presenter,name,description
+25/11/2026,9:30 am,4:30 pm,workshop,Pre-conference workshop,,,,
+25/11/2026,6:00 pm,9:00 pm,social,Pre-conference informal gathering,,"📍The Lighthouse Pub, Belconnen",,
+26/11/2026,8:30 am,9:30 am,procedural,Registration desk open,,,,
+26/11/2026,9:30 am,10:00 am,procedural,"Welcome to Country, opening address",,,,
+26/11/2026,10:00 am,11:00 am,keynote,Keynote,,"<strong>Dr Emi Tanaka</strong><sup>1</sup>
+
+1\. Australian National University",Decision-Making with Statistics and Data Science in the Age of AI,"Artificial intelligence (AI) is emerging as one of the most significant technological disruptors of contemporary society. It is changing almost every aspect of our lives: how we generate and discuss ideas, gather and process information, automate workflows, write code, solve mathematical problems, and ultimately make decisions.
+
+In this talk, I will present some emerging uses of AI in statistics and data science. I will also reflect on trends I am increasingly seeing as the Editor-in-Chief of the R Journal, which publishes research centred on R, one of the most widely used programming languages for statistics and data science. From this perspective, I have witnessed first-hand how AI is changing journal article writing, R package development, peer review, and copy-editing.
+
+I will discuss both the risks and opportunities that AI brings. As a society, we need to recognise and embrace the distinctive value that humans bring to the table, while adapting to new ways of working, reasoning, and making decisions alongside AI."
+26/11/2026,11:00 am,11:30 am,break,Morning tea,,,,
+26/11/2026,11:30 am,12:30 pm,panel,Panel session,,,,
+26/11/2026,12:30 pm,1:30 pm,break,Lunch,,,,
+26/11/2026,1:30 pm,3:00 pm,talks,Invited talks,Decision Support,,,
+26/11/2026,3:00 pm,3:30 pm,break,Afternoon tea,,,,
+26/11/2026,3:30 pm,4:00 pm,talks,Invited talks,ardc,,,
+26/11/2026,4:00 pm,5:00 pm,posters,Poster session,,,,
+26/11/2026,6:00 pm,9:00 pm,social,Conference social night,,"📍 Generator Gallery, Belconnen Arts Centre",,
+27/11/2026,8:30 am,9:30 am,workshop,ARDC Workshop,,,,
+27/11/2026,9:45 am,10:45 am,talks,Invited talks,Infrastructure,,,
+27/11/2026,10:45 am,11:15 am,break,Morning tea,,,,
+27/11/2026,11:15 am,12:15 pm,keynote,Keynote,,<strong<Andrew Leigh MP</strong>,The Microdata Dividend,"At a time when survey response rates are falling globally, the Australian Bureau of Statistics has invested heavily in confidentialised microdata for research. Operated under strict privacy protections and in secure data environments, the Person-Level Integrated Data Asset (PLIDA) and the Business Longitudinal Analytical Data Environment (BLADE) sit alongside other assets such as the Australian Census Longitudinal Dataset, the Longitudinally Linked Employer-Employee Database, the Australian Census and Migrants Integrated Dataset and the Vocational Education and Training National Data Asset.
+
+These datasets allow researchers to follow people and firms over time and study policy effects at scale. They enable randomised trials to track outcomes through administrative records and nonprofits to evaluate client outcomes. Already, linked microdata has informed government policies, including merger reform and the decision to ban non-compete clauses for low- and middle-income workers. This talk looks at what Australia’s expanding microdata infrastructure offers researchers, how these assets are being used by international experts, the role of the APS Data Profession, and where the next gains might come from."
+27/11/2026,12:15 pm,1:15 pm,break,Lunch,,,,
+27/11/2026,1:45 pm,2:45 pm,talks,Invited talks,Industry,,,
+27/11/2026,2:45 pm,3:15 pm,break,Afternoon tea,,,,
+27/11/2026,3:15 pm,4:15 pm,talks,Invited talks,Environment,,,
+27/11/2026,4:15 pm,4:30 pm,procedural,Conference close,,,,
