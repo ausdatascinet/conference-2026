@@ -6,7 +6,7 @@
 26/11/2026,9:30 am,10:00 am,procedural,Conference open,,Dr David Gruen AO,Opening address,
 26/11/2026,10:00 am,11:00 am,keynote,Keynote,,"<strong>Dr Emi Tanaka</strong><sup>1</sup>
 
-1\. Australian National University",Decision-Making with Statistics and Data Science in the Age of AI,"Artificial intelligence (AI) is emerging as one of the most significant technological disruptors of contemporary society. It is changing almost every aspect of our lives: how we generate and discuss ideas, gather and process information, automate workflows, write code, solve mathematical problems, and ultimately make decisions.
+<small>1\. Australian National University</small>",Decision-Making with Statistics and Data Science in the Age of AI,"Artificial intelligence (AI) is emerging as one of the most significant technological disruptors of contemporary society. It is changing almost every aspect of our lives: how we generate and discuss ideas, gather and process information, automate workflows, write code, solve mathematical problems, and ultimately make decisions.
 
 In this talk, I will present some emerging uses of AI in statistics and data science. I will also reflect on trends I am increasingly seeing as the Editor-in-Chief of the R Journal, which publishes research centred on R, one of the most widely used programming languages for statistics and data science. From this perspective, I have witnessed first-hand how AI is changing journal article writing, R package development, peer review, and copy-editing.
 

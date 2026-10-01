@@ -102,7 +102,8 @@ make_program <- function(program_date) {
       style = css(
         border.bottom.color = "#DEDEDE",
         background.color = "#DEDEDE",
-        font.weight = "700"
+        font.weight = "600",
+        font.size = "1.2rem"
       ),
       locations = cells_row_groups()
     ) |>
