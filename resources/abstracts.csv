@@ -1,4 +1,4 @@
-title,authors,presenting,theme,keywords,abstract
+﻿title,authors,presenting,theme,keywords,abstract
 Sciget.org: Developing a national Virtual Research Environment for data analytics,"<strong>Steffen Bollmann</strong><sup>1</sup>
 Aswin Narayanan<sup>1</sup>
 Glen Charlton<sup>2</sup>
@@ -100,7 +100,7 @@ Cheng Soon Ong<sup>2</sup>
 <small>1\. National Research Collections Australia, CSIRO
 2\. Technology, CSIRO</small>",Owen Forbes,Environment,"ecology, sampling design, Bayesian adaptive design","Ecological sampling and research prioritisation strategies tend to be guided by local expertise and individual research programs, rather than optimised against explicit, quantitative objectives. A broad family of Bayesian adaptive design methods has the potential to add value across ecological sampling contexts, but remains underutilised. Paired with accessible decision support tools, these methods offer evidence-based approaches to recurring allocation problems in ecology: deciding where and what to sample, which specimens to prioritise for digitisation from collection backlogs, or where to triage conservation information-gathering given national biodiversity priorities. 
 
-We map the landscape of Bayesian adaptive design methods, distinguishing approaches by goal and utility function - including Value of Information methods, information-theoretic approaches targeting model improvement, and sequential allocation for yield maximisation. Worked examples illustrate practical applications, including expected information gain for wombat sampling design, Rényi entropy search for African lovegrass distribution modelling, and species discovery in Australian weevils using bandit algorithms."
+We map the landscape of Bayesian adaptive design methods, distinguishing approaches by goal and utility function - including Value of Information methods, information-theoretic approaches targeting model improvement, and sequential allocation for yield maximisation. Worked examples illustrate practical applications, including expected information gain for wombat sampling design, R√©nyi entropy search for African lovegrass distribution modelling, and species discovery in Australian weevils using bandit algorithms."
 Spatial Conservation Prioritisation for Matters of National Environmental Significance,"<strong>Dr Kevin D Newman</strong><sup>1</sup>
 <strong>Randall Barry</strong><sup>1</sup>
 Dr Sarah E Stock<sup>1</sup>
@@ -168,9 +168,9 @@ A/Prof Samuel Mallinson<sup>1</sup>
 A central challenge is selective labelling: units removed at early stages are not observed at later ones, so the available data reflect only those units that survive, biasing conventional predictive models. We investigate approaches based on stream-of-variation (SoV) modelling, conformal prediction and machine learning techniques to detect incipient faults while providing calibrated, unit-level measure of uncertainty. Using data from an industrial manufacturing execution system, we evaluate these methods against standard baselines and discuss their implications for earlier, more reliable fault detection in high-volume manufacturing."
 DevOps Principles as data governance for an Aboriginal legal service,"<strong>Aaron Willcox</strong><sup>1</sup>
 
-<small>1\. North Australian Aboriginal Justice Agency</small>",Aaron Willcox,Infrastructure,"Data Governance, DevOps, Data Strategy","Legal-assistance data for an Aboriginal and Torres Strait Islander organisation must answer to two authorities at once: external accountability to government funders, and the data sovereignty of the community it serves. We present the design of a reproducible, open-source data pipeline that turns a transactional legal case-management system into statutory compliance reports. Our central argument is that computational reproducibility — and the DevOps culture of software engineering it borrows from is not merely an efficiency practice but a form of data governance in its own right.
+<small>1\. North Australian Aboriginal Justice Agency</small>",Aaron Willcox,Infrastructure,"Data Governance, DevOps, Data Strategy","Legal-assistance data for an Aboriginal and Torres Strait Islander organisation must answer to two authorities at once: external accountability to government funders, and the data sovereignty of the community it serves. We present the design of a reproducible, open-source data pipeline that turns a transactional legal case-management system into statutory compliance reports. Our central argument is that computational reproducibility ‚Äî and the DevOps culture of software engineering it borrows from is not merely an efficiency practice but a form of data governance in its own right.
 
-The pipeline is organised as a climb through levels of abstraction, following the DIKW progression: raw extracts (data) are transformed by business rules into curated records (information), aggregated into statutory measures (knowledge), and used to inform service and funding decisions (wisdom). A machine-readable operational specification acts as a single source of truth — documenting business rules, validating data, and making counting definitions testable rather than aspirational. Version control, automated testing, and continuous documentation operationalise governance decisions directly as code."
+The pipeline is organised as a climb through levels of abstraction, following the DIKW progression: raw extracts (data) are transformed by business rules into curated records (information), aggregated into statutory measures (knowledge), and used to inform service and funding decisions (wisdom). A machine-readable operational specification acts as a single source of truth ‚Äî documenting business rules, validating data, and making counting definitions testable rather than aspirational. Version control, automated testing, and continuous documentation operationalise governance decisions directly as code."
 From open-access ocean observations to environmental intelligence: enabling data-driven decisions through Australia's Integrated Marine Observing System,"<strong>Fabrice Jaine</strong><sup>1</sup>
 Mark Rehbein<sup>1</sup>
 Michelle Heupel<sup>1</sup>
@@ -189,3 +189,153 @@ Highlights how the Museum as a domain producer of trusted collection data produc
 Presents the Australian Institute of Anatomy (AIA) collection card catalogue as a case study. The AIA catalogue demonstrates the value of catalogues ""as data"" with multiple sources of data and layers of documentation generated by successive collection stewards over time and with multiple access controls. 
 
 References recent research ""exploring the perspectives of cultural heritage organisations on Collections as Data frameworks internationally."" Hymbel, Nyhan & Pearlman, Perspectives from Germany and Australia, Collections as Data Infrastructure https://doi.org/10.4324/9781003666530-6."
+How to make a good variable naming convention: guidelines for development and application in research data contexts,"<strong>Benjamin Harrap</strong><sup>1</sup>
+Jonathon Martin<sup>1</sup>
+Katherine Thurber<sup>1</sup>
+Ryan Perry<sup>2</sup>
+Christopher McKay<sup>1</sup>
+
+<small>1\. Yardhura Walani, Australian National University
+2\. Australian Data Archive, Australian National University</small>",Benjamin Harrap,Poster + FF,"metadata, variable naming convention, data management","Guidelines for good data management and reproducible research practices routinely list data dictionaries as an essential document to accompany datasets, with variable names being a core component of any data dictionary. Despite variable names' unequivocal inclusion in data management guidelines, there is surprisingly little literature that comprehensively explores what makes for a good, or bad, variable name or naming convention.
+
+We present a set of guidelines for developing and applying variable naming conventions, the development of which arose from the redevelopment of an existing variable naming convention used for the Mayi Kuwayu: The National Longitudinal Study of Aboriginal and Torres Strait Islander Wellbeing.
+
+These guidelines are for researchers, data managers, and anyone else who finds themselves having to create variable names. Our ultimate goal was to produce variable names that were easy to work (code) with, easy to read and distinguish between, and robust to changes in questionnaire design."
+Bayesian Variable Selection in Quantile Regression to Assess Joint Impacts of Climate Indices on Monthly Rainfall,"<strong>Dilani Kaveendri</strong><sup>1,2</sup>
+Sally Cripps<sup>3</sup>
+Nandini Ramesh<sup>4</sup>
+
+<small>1\. Canterbury Institute of Management, Australia
+2\. The University of Sydney
+3\. University of Technology Sydney
+4\. CSIRO data61, Westmead</small>",Dilani Kaveendri,Poster + FF,Bayesian variable selection; spatial quantile regression; monthly rainfall extremes,"Understanding how large-scale climate indices influence rainfall variability is important for assessing drought and flood risk in eastern Australia. This study examines the joint impact of the Southern Oscillation Index (SOI), Dipole Mode Index (DMI), and monthly rainfall quantiles in New South Wales (NSW), Australia, with emphasis on the tails of the rainfall distribution. To address this, we employ a hierarchical model incorporating Bayesian variable selection within a spatial quantile regression framework, allowing integration of two indices and spatial variation in impacts. The first level expresses the asymmetric Laplace distribution as a location-scale mixture. The second level uses a prior for regression coefficients as a two-component mixture, with a point mass at zero and a normal distribution. The third level models joint inclusion probabilities of SOI and DMI using multinomial logistic regression with a spatial Gaussian Process prior. Results show that SOI is the dominant driver across NSW, with impacts in winter and spring. DMI influences spring rainfall, particularly September and October. Lower and upper quantiles are more sensitive to SOI and DMI than the median."
+Evaluating Grounding Approaches for Large Language Models on Tabular Statistical Data,"<strong>Ali Behnaz</strong><sup>1</sup>
+Ivan Welsh<sup>1,2</sup>
+Bernadette Giuffrida<sup>1</sup>
+Phil Juricev-Martincev<sup>1</sup>
+Alex Tan<sup>3</sup>
+
+<small>1\. Australian Bureau of Statistics
+2\. Stats NZ
+3\. Baseten</small>",Ali Behnaz,Poster + FF,Official statistics; Retrieval-Augmented Generation (RAG); Knowledge Graphs;,"Large language models (LLMs) offer natural-language access to complex statistical products, potentially broadening reach to high-quality data—but grounding them reliably in tabular data is hard. We compare two approaches on a curated subset of ABS demographic and socioeconomic data across standard geographies (SA2–SA4, LGA): conventional Retrieval-Augmented Generation (RAG) and Knowledge Graph-RAG (KG-RAG), using the same generation model. Measured on accuracy and coverage, each excels on different question types. KG-RAG is more accurate on direct lookup, ranking, and set-membership tasks, giving traceable, verifiable retrieval. RAG's semantic retrieval better handles varied phrasing and achieves broader coverage on regional comparisons and area descriptions. This motivates hybrid architectures that route each question to the most suitable system. We also detail curation challenges: source metadata built for human interpretation needed transformation and normalisation before either approach could use it—underlining that effective grounding depends not only on architecture but on AI-ready data."
+A Bayesian spatio-temporal nearest neighbor Gaussian process model for pooled genetic data,"<strong>Imke Botha</strong><sup>1</sup>
+Tianxiao Hao<sup>2</sup>
+Lucinda E. Harrison<sup>3</sup>
+Nick Golding<sup>2</sup>
+Daniel J. Weiss<sup>2</sup>
+Jennifer A. Flegg<sup>1</sup>
+
+<small>1\. University of Melbourne
+2\. The Kids Research Institute of Australia
+3\. WorldWide Antimalarial Resistance Network (WWARN)</small>",Imke Botha,Poster + FF,"Antimalarial drug resistance, haplotype prevalence estimation, sequential Monte Carlo squared","Large scale genetic datasets often aggregate the total allele counts of distinct genetic markers. Inferring haplotype frequencies (i.e. the frequency of multimarker alleles) from these pooled data is a challenge. Previous spatio-temporal modeling in this context has been limited to 3 markers due to the computational cost. In this work, we propose a nearest neighbor Gaussian process (NNGP) model to improve scaling with the number of markers and observations. To infer the parameters of our model, we develop a novel sequential Monte Carlo squared algorithm, which uses particle Gibbs with ancestor sampling to mutate the NNGP function values. The latter has a linear cost in the number of observations and the number of NNGPs, and can be applied to a broad range of NNGP models. As a case study, we analyze genetic data relating to antimalarial drug resistance in Africa, and show our scaling results empirically on a 3 and 6 genetic marker dataset."
+STORM-Impute: A Scalable Framework for Missing Values in Dynamic Spatio-Temporal Big Data,"<strong>Hom Nath Dhungana</strong><sup>1</sup>
+<strong>Masood Siddiqui</strong><sup>2</sup>
+Radhika Kuttala<sup>3</sup>
+Eric Howard<sup>4</sup>
+
+<small>1\. Charles Sturt University, Australia
+2\. Lucknow University, India
+3\. Southern Cross Institute, Parramatta, Australia
+4\. Macquarie University, Australia</small>",Hom Nath Dhungana/ Masood Siddqui,Poster + FF,"Missing Data, Imputation, Big Data, Statistical Modelling","Introduction: Missing values in large spatio-temporal datasets are often spatially clustered, temporally persistent, and generated by processes that evolve over time. Standard methods may ignore these dependencies, producing biased estimates and poorly calibrated uncertainty.
+
+Methods: We propose STORM-Impute, a Spatio-Temporal Online Reconstruction Model combining sparse Gaussian Markov random fields and state-space temporal dynamics. Sparse neighbourhood approximation, parallel computation, and online updating support high-dimensional big data. The R package stormImpute provides estimation, diagnostics, visualisation, uncertainty quantification, and benchmarking.
+
+Results: Simulation and environmental-data studies assess reconstruction error, interval coverage, preservation of Moran's I, temporal autocorrelation, forecasting accuracy, memory use, and runtime against MICE, k-nearest neighbours, missForest, matrix completion, and spatio-temporal kriging.
+
+Conclusion: STORM-Impute offers a scalable, reproducible, uncertainty-aware solution for incomplete dynamic spatial data at scale.
+"
+The data hunger problem: rethinking deep learning for clinical research,"<strong>Stuart Szwec</strong><sup>1</sup>
+Gabriela Martins Costa Gomes<sup>2</sup>
+Adam Collinson<sup>2</sup>
+Joerg Mattes<sup>2</sup>
+
+<small>1\. Hunter Medical Research Institute
+2\. University of Newcastle</small>",Stuart Szwec,Poster + FF,"Timeseries classification, feature engineering, clinical machine learning","Machine learning holds considerable promise for clinical decision support, yet one constraint shapes what methods are appropriate: clinical datasets are small. This talk examines that constraint through a head-to-head comparison of handcrafted feature extraction and end-to-end deep learning for paediatric respiratory disease classification from tidal breathing flow signals.
+We evaluated feature extraction methodologies, classical classifiers, ensemble strategies, and a variety of deep learning models trained on raw signals across approximately 350 patients with independent external validation. The CNN underperformed conventional models by 15 to 20 percent. Tabular models with hand-crafted features achieved the highest external AUC of 0.760.
+
+Deep learning's capacity for automatic feature discovery comes with data requirements most clinical studies cannot meet. Handcrafted features encode domain-relevant signal characteristics efficiently under small-sample conditions. This talk offers a practical framework for choosing between approaches based on dataset size, class imbalance, and validation requirements, grounded in a clinical problem moving to multi-site trial implementation.
+
+"
+Modular software for sequential inference: From election audits to general data,"Alexander Ek<sup>1</sup>
+Philip B. Stark<sup>2</sup>
+<strong>Damjan Vukcevic</strong><sup>3</sup>
+
+<small>1\. KU Leuven, Belgium
+2\. University of California, Berkeley, USA
+3\. Monash University, Australia</small>",Damjan Vukcevic,Poster + FF,"Sequential inference, software, early stopping","Sequential inference involves analysing data dynamically as they are collected and allowing data-based decisions, such as whether to stop early. This can be substantially more efficient/powerful than fixed-sample approaches. Possible applications include clinical trials, real-time quality control and A/B testing; our motivating application is election auditing.
+
+Implementing sequential statistical procedures in software has received comparatively little attention compared to fixed-sample procedures. There will often be complex domain-specific requirements to be met, which need to be balanced against having flexible, generic code that can be used in diverse settings. This challenge is acutely evident in election auditing, where there is substantial diversity in voting systems and electoral infrastructure.
+
+To address this need, we present an open-source software framework and Python implementation for sequential hypothesis testing. While it is geared towards election audits, we build it in modular pieces that can be easily repurposed. The core functionality implements statistical methods that are agnostic to elections, including the ability to test complex composite hypotheses."
+"Machine Learning Approaches for Fall Prediction and Detection in Nursing Home Residents Aged ≥60 Years Using Wearable Sensors, Environmental Sensors, and Electronic Health Records: A Systematic Literature Review","<strong>Sepideh Jahandideh</strong><sup>1</sup>
+Ebrahim Barzegari<sup>2</sup>
+Mina Jahandideh<sup>3</sup>
+Abbas Kouzani<sup>4</sup>
+
+<small>1\. Southern Cross University
+2\. Kermanshah University of Medical Sciences
+3\. Queensland University of Technology
+4\. Deakin University</small>",Sepideh Jahandideh,Poster,Fall prediction; Machine learning; Electronic health records,"
+Falls are a major cause of harm among nursing home residents. Machine learning (ML) using wearable, environmental, and electronic health record (EHR) data may improve fall prediction and detection, but evidence of implementation beyond algorithm performance is needed. This review assessed ML approaches and translational considerations for aged-care deployment. A PRISMA-based systematic review included studies of residents aged ≥60 years using ML with wearable sensors, environmental sensors, or EHR data for fall prediction or detection. Studies were assessed for models, validation, performance, and implementation factors.
+Twenty-five studies were included: wearable (n=14), environmental (n=7), and EHR-based (n=4). Wearable models showed moderate to high performance but mostly used internal validation. Environmental systems performed well in controlled settings, while EHR models showed moderate prediction ability. Implementation factors were rarely reported.
+ML-based fall detection systems show promise, but evidence of real-world effectiveness remains limited. Future research should focus on validation, usability, workflow integration, equity, governance, and care outcomes."
+ggincerta: An R package for Uncertainty Visualisation with a Layered Grammar of Graphics,"<strong>Maggie Xueqi Ma</strong><sup>1</sup>
+Weihao Li<sup>1</sup>
+Quan Vu<sup>1</sup>
+Francis Hui<sup>1</sup>
+Emi Tanaka<sup>1</sup>
+
+<small>1\. Research School of Finance, Actuarial Studies and Statistics, Australian National University</small>",Maggie Xueqi Ma,Poster,"data visualisation, ggplot2, grammar of graphics","A key challenge in spatial visualisation is the simultaneous communication of estimated values and their associated uncertainties, as visual channels are occupied by spatial structure. We developed `ggincerta`, an R package that extends the layered grammar of graphics implemented in `ggplot2`, to facilitate the visualisation of uncertainty in spatial data. `ggincerta` enables users to leverage the full flexibility of the grammar of graphics to create complex and customised visualisations through simpler and more consistent workflows in spatial and more general data settings. The package also introduces dual map, a visualisation designed to support selective attention between values and uncertainties.
+We demonstrate the capabilities of ggincerta through several case studies, illustrating how the package can be used to create informative and visually effective maps. By integrating uncertainty visualisation directly into the ggplot2 ecosystem and expanding the range of available uncertainty displays, ggincerta provides a flexible and powerful framework for researchers and practitioners working with spatial and other information-rich data."
+Higher Education Equity Atlas,"<strong>David Raithel</strong><sup>1</sup>
+<strong>Leigh Tyers</strong><sup>2</sup>
+Gemma Cadby<sup>1</sup>
+Daniel Doss<sup>1</sup>
+
+<small>1\. Australian Centre for Student Equity and Success (ACSES)
+2\. Curtin Institute for Data Science (CIDS)</small>",David Raithel & Leigh Tyers,Poster,"visualisation, geospatial, tool","What does Australia's higher education catchment look like? Equitable access to higher education is pivotal to Australia's social cohesion and economic prosperity; geographic patterns of university participation are an important policy question. The Australian Centre for Student Equity and Success (ACSES) partnered with the Curtin Institute for Data Science (CIDS) to develop an interactive national mapping dashboard combining Department of Education first-address enrolment data with ABS statistical regions (SA2 and SA3) to create interactive choropleth maps of university enrolments by geography, institution, equity group and enrolment type. 
+
+We discuss the challenges of cleaning and harmonising the data, handling suppressed values, optimising browser performance for the thousands of high-detail geographic regions, and designing visualisations that are both accessible and intuitive for non-technical users. The resulting geospatial platform enables researchers, universities, and policymakers to explore enrolment patterns across Australia through an interface that makes complex geographic relationships immediately apparent."
+Landscape of R packages for Exploring Spatio-temporal Networks,"<strong>Krisanat Anukarnsakulchularp</strong><sup>1</sup>
+Dr. Michael Lydeamore<sup>1</sup>
+Prof. Dianne Cook<sup>1</sup>
+Dr. Natali Jokanovic<sup>2</sup>
+
+<small>1\. Monash University
+2\. The Alfred Hospital and Monash University</small>",Krisanat Anukarnsakulchularp,Poster,"Exploratory Data Analysis, Spatio-temporal Network, Data Science.","Analysing spatio-temporal network data is a contemporary research problem that combines space, time, and network structure. While techniques to analyse these dimensions separately exist and are well developed, exploring them simultaneously remains an open challenge. In exploratory data analysis (EDA), analysts need to decide which dimensions matter across potentially several EDA tasks (storage, wrangling, visualising, and modelling). That said, the existing tools remain fragmented, with each task and dimension supported by a different set of tools, particularly for dynamic networks, where structure changes over time. We review the current landscape of R packages and their ability to perform EDA tasks. We find data storage is dominated by igraph and network, but both have outdated user interactions relative to tidyverse conventions. tidygraph, which implements igraph structure as two tidy data frames, is the closest to convention. Support for interactive visualisation and dynamic networks remains underdeveloped. As for modelling, a tidyverse-style interface, similar to tidymodels, would help with data exploration."
+From multimodal AI fusion to Agentic AI approach for colorectal cancer survival prediction,"<strong>Miljana Shulajkovska</strong><sup>1,2</sup>
+Matej Jelenc<sup>3</sup>
+Jitendra Jonnagaddala<sup>4</sup>
+Anton Gradišek<sup>2</sup>
+
+<small>1\. International Postgraduate School Jožef Stefan, Ljubljana, Slovenia
+2\. Jožef Stefan Institute, Ljubljana, Slovenia
+3\. Faculty of Mathematics and Physics, University of Ljubljana, Slovenia
+4\. School of Population Health, Faculty of Medicine and Health, Syndey, Australia
+</small>",Miljana Shulajkovska,Poster,"Colorectal cancer, agentic AI, multimodal fusion","The proposed work investigates multimodal deep learning for colorectal cancer (CRC) survival prediction using whole slide images (WSIs) and clinical data. WSIs are represented by patch embeddings extracted from pathology foundation models and aggregated using multiple instance learning and hypergraph-based modelling. Clinical variables are encoded separately and fused with image features through concatenation, gated fusion, attention-based fusion, and graph-inspired architectures. The main objective is to identify the most effective fusion strategy, model configuration, and parameter settings for robust patient-level survival prediction. 
+A key contribution is the integration of an agentic AI layer within the framework. This layer supports autonomous management of multimodal workflows, including model selection, hyperparameter exploration, experiment tracking, and comparison of fusion strategies across datasets. Experiments use patient-level cross-validation and external validation across TCGA and MCO cohorts. Performance is assessed using AUROC, C-index, Kaplan-Meier analysis, and confidence intervals. The approach aims to improve accuracy, interpretability, and generalizability."
+Classifying Job Advertisements into OSCA using Calibrated Semantic Similarity,"<strong>Rui Wang</strong><sup>1</sup>
+Yin Shan<sup>1</sup>
+Christopher McLoughlin<sup>1</sup>
+Darcy Bermingham<sup>1</sup>
+
+<small>1\. Nowcasting and Labour Demand, Jobs and Skills Australia</small>",Rui Wang,Poster,"Job Advertisements Classification, Semantic Similarity, OSCA","This paper presents a framework for classifying job advertisements into the Occupation Standard Classification for Australia (OSCA) without directly labelled training data. Using Internet Vacancy Index data coded in Australian and New Zealand Standard Classification of Occupation (ANZSCO), the approach combines correspondence mapping with calibrated semantic similarity to construct a high-confidence training dataset. A key contribution is a threshold calibration procedure that determines when similarity scores can be trusted, enabling the selection of reliable examples while filtering out uncertain cases. Using this dataset, a BERT-based model achieves strong performance, and comparison with human annotation shows that predictions align closely with expert judgement in well-defined cases, with differences concentrated in inherently ambiguous examples. The results demonstrate that accurate large-scale OSCA classification can be achieved by prioritising label quality through calibration, providing a practical solution for updating labour market data to new classification systems."
+From Match Data to Recruitment Decisions: Auditing Scouting Models for Gender Bias in Women's Football,"<strong>Sheikh Sultan Aadil Huque</strong><sup>1</sup>
+<strong>Sara Mann</strong><sup>2</sup>
+
+<small>1\. CIL, National University of Singapore
+2\. University of Canterbury, New Zealand</small>","Sheikh Sultan Aadil Huque
+Sara Mann",Poster,"Sports analytics, Algorithmic audit, Alogorithmic bias","Football clubs now use statistical models to identify and recruit players, although many performance measures were developed from men's match data. Their validity in women's football cannot be assumed. This study asks whether models trained on men's data produce different ratings and recruitment rankings when applied to women players, and what safeguards should govern their use. Using Hudl StatsBomb event data from 771 women's league matches and available men's competitions, we will train two expected-goals models with the same algorithm, predictors, preprocessing and tuning. One will use men's shots. The other will use a women's sample matched for size and shot context. Both will score the same held-out women's shots. We will compare calibration, prediction error, feature effects and ranking changes by position and league. A doctrinal analysis of the EU AI Act, GDPR and sex-discrimination law will inform a reproducible decision-support protocol for clubs and regulators. In line with 'From Data to Decisions', the protocol will help users test model validity before recruitment, document limitations, retain human review and allow players to challenge inaccurate assessments."
+Beyond Click Counts: A Behavioural Analytics Framework for Inferring Academic Stress Risk from Learning Management System Data,"<strong>Radhika Kuttala</strong><sup>1</sup>
+Hom Nath Dhungana<sup>1,2</sup>
+Eric Howard<sup>1,3</sup>
+
+<small>1\. Southern Cross Institute, Parramatta, Australia
+2\. Charles Sturt University, Australia
+3\. Macquarie University, Australia</small>","Radhika Kuttala (Southern Cross Institute, Parramatta, Australia)",Poster,"Behavioural Learning Analytics, Academic Stress Risk, Explainable Artificial Intelligence (XAI)","Introduction: Academic stress adversely affects students and their success, but LMS analytics aim to predict performance through activity measures. There are limited behavioural insights available for early academic intervention. 
+
+Methods: We propose a behavioural learning analytics framework that converts LMS interaction logs into behaviour-based signatures of learning, such as procrastination, regularity, behavioural volatility, assignment preparation, and study rhythm. In conjunction with the Open University Learning Analytics Dataset (OULAD), Explainable AI is integrated with machine learning to estimate academic stress risk and also to present explanations of the behavioural factors influencing predictions. 
+
+Expected Outcomes: The framework is expected to outperform traditional click-based analytics by providing interpretable behavioural profiles and identifying key behavioural indicators associated with elevated stress risk.
+
+Conclusion: By combining behavioural analytics with Explainable AI, this work converts LMS data into transparent, actionable evidence that supports academic decision-making and student wellbeing interventions."

@@ -25,7 +25,7 @@ program <- read_csv("resources/program.csv", col_types = "ccccc") |>
   ) |>
   mutate(
     session = case_when(
-      theme == "ardc" ~ session,
+      theme %in% c("ardc", "Poster", "Poster + FF") ~ session,
       !is.na(theme) ~ paste0(session, ": ", theme),
       .default = session
     ),

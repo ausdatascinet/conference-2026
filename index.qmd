@@ -26,6 +26,7 @@ Want to find out more about sponsoring the conference? Head over to the [sponsor
 
 ## Key information
 
+-   **Workshop and conference registrations close on Monday 2nd November!**
 -   The conference will be held over the 26th & 27th of November, at ABS House in Belconnen, Canberra.
 -   The [pre-conference workshop](./workshop.qmd) 'Modern Data Linkage Methods and Implementation Using Splink' runs on the 25th of November.
 -   The [social night](./program.qmd#social-night) is included with all registrations
