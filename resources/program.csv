@@ -2,8 +2,10 @@
 25/11/2026,9:30 am,4:30 pm,workshop,Pre-conference workshop,,,See the [workshop page](workshop.qmd) for details.,
 25/11/2026,6:00 pm,9:00 pm,social,Social event,,"📍The Lighthouse Pub, Belconnen",Pre-conference informal gathering,
 26/11/2026,8:00 am,9:00 am,procedural,Registration desk open,,,,
-26/11/2026,9:00 am,10:00 am,procedural,Conference open,,Wally Bell,Welcome to Country,
-26/11/2026,9:00 am,10:00 am,procedural,Conference open,,Dr David Gruen AO,Opening address,
+26/11/2026,9:00 am,10:00 am,procedural,Conference open,,<strong>Ngunnawal Elder Uncle Wally Bell</strong>,Welcome to Country,
+26/11/2026,9:00 am,10:00 am,keynote,Conference open,,"<strong>Dr David Gruen AO</strong>
+
+<small>1\. Australian Bureau of Statistics</small>",Splinkage and Other Stories: Data Science at the ABS,"National statistical offices around the world have gained a great deal from open-source data science, and the Australian Bureau of Statistics is no exception. In this address, I will tell the story behind two recent ABS innovations, joint winners at this year’s APS Data Awards. The first is our adoption of Splink, an open-source probabilistic linkage tool, to build the Person Linkage Spine that underpins the Person-Level Integrated Data Asset (PLIDA). Linking the Spine datasets now takes 4 business days rather than 54, and we have contributed a new clustering method back to Splink. The second is the ABS Data Coding Capability, a hierarchical machine learning service that codes free-text occupation responses to the new Occupation Standard Classification for Australia (OSCA) and is now coding the 2026 Census. I will finish by reflecting on what both stories show about expertise, collaboration and trust."
 26/11/2026,10:00 am,10:30 am,break,Morning tea,,,,
 26/11/2026,10:30 am,11:30 am,keynote,Keynote,,"<strong>Dr Emi Tanaka</strong><sup>1</sup>
 
