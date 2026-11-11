@@ -19,20 +19,23 @@ I will discuss both the risks and opportunities that AI brings. As a society, we
 For data scientists, this raises questions that go well beyond whether an LLM can write a useful piece of code. How much of an analytical workflow should we delegate? How do we verify work produced by an AI agent? Does supervising an agent save time, or simply create a new kind of work? And what expertise do data scientists need when producing an analysis becomes easier than knowing whether it is any good?
 
 This panel brings together perspectives from across data science to discuss where LLMs and AI agents are genuinely useful today, where they still fail, and how they may change the practice of data science. We will explore trust, reproducibility, human oversight, accountability, changing skills, and what happens when the data scientist increasingly becomes the manager, rather than the analyst."
-26/11/2026,12:30 pm,1:30 pm,keynote,Lunch,,<strong>Ben Harrap</strong>,ADSN into the future (12:45pm to 1:15pm),Grab some lunch and come for a chat about what's happened in the past year and where the ADSN is heading next. We want to know what has been valuable to you so far if there are any new initiatives you'd like to see.
+26/11/2026,12:30 pm,1:30 pm,keynote,Lunch,,,,
 26/11/2026,1:30 pm,3:00 pm,talks,Invited talks,Decision Support,,,
 26/11/2026,3:00 pm,3:30 pm,break,Afternoon tea,,,,
 26/11/2026,3:30 pm,4:00 pm,talks,Invited talks,ardc,,,
 26/11/2026,4:00 pm,4:15 pm,posters,Fast-forward presentations,Poster + FF,,,
 26/11/2026,4:15 pm,5:00 pm,posters,Poster session,Poster,,,
 26/11/2026,6:00 pm,9:00 pm,social,Social event,,"📍 Generator Gallery, Belconnen Arts Centre",Conference social night,
-27/11/2026,8:30 am,9:30 am,sponsored,Workshop,,Australian Research Data Commons,Hands-On Workshop: Exploring Virtual Research Environments (VREs),"Discover the future of collaborative research with our new Virtual Research Environments (VREs). Tied directly to the ADSN project, these containerized, cloud-based workspaces provide seamless access to computing resources, analytical tools, and secure collaboration features all in one place. Join us for a hands-on session to test out an early alpha version of AI/ML (possible to also give pointers to other VREs completed till date) running on the Nectar cloud, and help shape the final platform with your feedback! Please bring your laptop."
+27/11/2026,8:30 am,9:30 am,sponsored,Workshop,,Australian Research Data Commons,"Hands-On Workshop: Exploring Virtual Research Environments (VREs)
+
+<strong>In the Knibbs Lecture Theatre</strong>","Discover the future of collaborative research with our new Virtual Research Environments (VREs). Tied directly to the ADSN project, these containerized, cloud-based workspaces provide seamless access to computing resources, analytical tools, and secure collaboration features all in one place. Join us for a hands-on session to test out an early alpha version of AI/ML (possible to also give pointers to other VREs completed till date) running on the Nectar cloud, and help shape the final platform with your feedback! Please bring your laptop."
 27/11/2026,9:45 am,10:45 am,talks,Invited talks,Infrastructure,,,
 27/11/2026,10:45 am,11:15 am,break,Morning tea,,,,
 27/11/2026,11:15 am,12:15 pm,keynote,Keynote,,<strong>Andrew Leigh MP</strong>,The Microdata Dividend,"At a time when survey response rates are falling globally, the Australian Bureau of Statistics has invested heavily in confidentialised microdata for research. Operated under strict privacy protections and in secure data environments, the Person-Level Integrated Data Asset (PLIDA) and the Business Longitudinal Analytical Data Environment (BLADE) sit alongside other assets such as the Australian Census Longitudinal Dataset, the Longitudinally Linked Employer-Employee Database, the Australian Census and Migrants Integrated Dataset and the Vocational Education and Training National Data Asset.
 
 These datasets allow researchers to follow people and firms over time and study policy effects at scale. They enable randomised trials to track outcomes through administrative records and nonprofits to evaluate client outcomes. Already, linked microdata has informed government policies, including merger reform and the decision to ban non-compete clauses for low- and middle-income workers. This talk looks at what Australia’s expanding microdata infrastructure offers researchers, how these assets are being used by international experts, the role of the APS Data Profession, and where the next gains might come from."
 27/11/2026,12:15 pm,1:15 pm,break,Lunch,,,,
+27/11/2026,1:15 pm,1:45 pm,keynote,Discussion,,<strong>Ben Harrap</strong>,ADSN into the future,Come for a chat about what's happened in the past year and where the ADSN is heading next. We want to know what has been valuable to you so far if there are any new initiatives you'd like to see.
 27/11/2026,1:45 pm,2:45 pm,talks,Invited talks,Industry,,,
 27/11/2026,2:45 pm,3:15 pm,break,Afternoon tea,,,,
 27/11/2026,3:15 pm,4:15 pm,talks,Invited talks,Environment,,,
