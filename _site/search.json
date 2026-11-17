@@ -194,5 +194,12 @@
     "title": "Organising Committee",
     "section": "Web team",
     "text": "Web team\n\n\n\nMaliny Po\n\n\n\n\nMinh Nguyen"
+  },
+  {
+    "objectID": "workshop.html#schedule",
+    "href": "workshop.html#schedule",
+    "title": "Modern Data Linkage Methods and Implementation Using Splink",
+    "section": "Schedule",
+    "text": "Schedule\n\n09:30 The theory underpinning probabilistic linking\n10:30 Morning tea\n11:00 Confirming everyone is set up for the Splink part (package installation, Python up and running etc.)\n11:30 Splink Basics\n12:30 Lunch\n13:15 Splink Basics continued\n14:00 Advanced Splink techniques\n15:00 Afternoon tea\n15:30 Advanced Splink techniques continued\n16:30 Close"
   }
 ]
