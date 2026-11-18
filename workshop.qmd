@@ -74,3 +74,7 @@ Aymon joined the ABS as a graduate in 2022 and is currently a methodologist in D
 ![](img/aymon.jpg){fig-alt="A photo of Aymon Wuolanne"}
 :::
 ::::
+
+### Nicholas Erskine
+
+Nicholas Erskine joined the ABS in 2019 and has worked in Data Linking Methodology for a cumulative total of about three years. He oversaw the early stages of the transition to Splink as the primary tool for record linkage at the ABS and recently returned to DLM after a few years working in other parts of the methodology division. In his spare time, Nicholas enjoys reading and running slower than both Aymon and Daniel.
