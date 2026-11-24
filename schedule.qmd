@@ -51,7 +51,10 @@ program <- read_csv("resources/program.csv", col_types = "ccccc") |>
       ),
       "min)"
     ),
-    session = paste0(session, " ", duration),
+    session = case_when(
+      !is.na(chair) ~ paste0(session, " ", duration, " Session chair: ",chair),
+      .default = paste0(session, " ", duration)
+    ),
     title = case_when(
       !is.na(abstract) ~ paste0(
         title,

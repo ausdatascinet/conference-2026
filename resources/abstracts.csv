@@ -1,22 +1,4 @@
 title,authors,presenting,theme,keywords,abstract
-Sciget.org: Developing a national Virtual Research Environment for data analytics,"<strong>Steffen Bollmann</strong><sup>1</sup>
-Aswin Narayanan<sup>1</sup>
-Glen Charlton<sup>2</sup>
-Long Le<sup>2</sup>
-Gnana K Bharathy<sup>3</sup>
-Aleem Uddin<sup>3</sup>
-Elleina Filippi<sup>3</sup>
-Celia Loneragan<sup>3</sup>
-Mona Bojamma<sup>3</sup>
-Jayadeep Jacob<sup>3</sup>
-
-<small>1\. University of Queensland
-2\. Intersect Australia
-3\. Australian Research Data Commons</small>",Steffen Bollmann,ardc,"Virtual Research Environment, Containerization, Cloud Computing","Australian researchers contend with fragmented AI/ML infrastructure, limited GPU access, incompatible software installations, and no consistent governance for sensitive data.
-
-Here we present the design and first delivery phase of a national Virtual Research Environment (VRE): a portable, containerised platform delivering advanced analytics and AI capabilities. The Sciget.org VRE combines an automated container build system, a federated software distribution network based on CERN Virtual Machine File System (CERN VM-FS) (a web-based, global versioning file system optimised for software distribution), GPU-enabled compute, and a virtual desktop. Privacy-preserving large language models offer in-environment coding support.
-
-A three-tier architecture matches security to data sensitivity: open environments for public datasets and early-career training, application-level ISO 27001-aligned environments for moderately sensitive health data, and a foundation for future Trusted Research Environments. We demonstrate an exemplar VREs for the Australian microscopy and the AI/ML community supporting data science and advanced analytics workflows."
 Advanced Analytics and AI Resources Hub: Enabling Data-Driven Decisions in Health Research,"<strong>Divya Mehta</strong><sup>1</sup>
 Bernadette Hyland-Wood<sup>2</sup>
 Alberto Nettel Aguirre<sup>3</sup>
@@ -38,6 +20,24 @@ Nicola Armstrong, Curtin University",ardc,"advanced analytics, digital infrastru
 Building on insights from Phase 1, which engaged researchers, government stakeholders and industry partners, Phase 2 applied a structured, collaborative, co-design methodology to develop a sustainable Resource Hub aligned with national health research priorities and the ARDC Advanced Analytics Reference Architecture. The approach was organised around five thematic areas, each addressing a key component of the digital infrastructure stack.
 
 This presentation will provide an overview of the project and summarise the major findings from this work."
+Sciget.org: Developing a national Virtual Research Environment for data analytics,"<strong>Steffen Bollmann</strong><sup>1</sup>
+Aswin Narayanan<sup>1</sup>
+Glen Charlton<sup>2</sup>
+Long Le<sup>2</sup>
+Gnana K Bharathy<sup>3</sup>
+Aleem Uddin<sup>3</sup>
+Elleina Filippi<sup>3</sup>
+Celia Loneragan<sup>3</sup>
+Mona Bojamma<sup>3</sup>
+Jayadeep Jacob<sup>3</sup>
+
+<small>1\. University of Queensland
+2\. Intersect Australia
+3\. Australian Research Data Commons</small>",Steffen Bollmann,ardc,"Virtual Research Environment, Containerization, Cloud Computing","Australian researchers contend with fragmented AI/ML infrastructure, limited GPU access, incompatible software installations, and no consistent governance for sensitive data.
+
+Here we present the design and first delivery phase of a national Virtual Research Environment (VRE): a portable, containerised platform delivering advanced analytics and AI capabilities. The Sciget.org VRE combines an automated container build system, a federated software distribution network based on CERN Virtual Machine File System (CERN VM-FS) (a web-based, global versioning file system optimised for software distribution), GPU-enabled compute, and a virtual desktop. Privacy-preserving large language models offer in-environment coding support.
+
+A three-tier architecture matches security to data sensitivity: open environments for public datasets and early-career training, application-level ISO 27001-aligned environments for moderately sensitive health data, and a foundation for future Trusted Research Environments. We demonstrate an exemplar VREs for the Australian microscopy and the AI/ML community supporting data science and advanced analytics workflows."
 A Data-Driven Framework for Quantifying Airspace Risk Across Australia,"<strong>Aaron McFadyen</strong>
 Guilherme Froes Silva
 Peter Smith

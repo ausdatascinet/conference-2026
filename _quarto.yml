@@ -8,8 +8,8 @@ website:
     image: "/img/canberra.jpg"
   navbar:
     left:
-      - text: Abstract Submission
-        href: abstract.qmd
+      # - text: Abstract Submission
+      #   href: abstract.qmd
       - text: Workshop
         href: workshop.qmd
       - text: Conference Program
