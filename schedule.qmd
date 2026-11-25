@@ -124,11 +124,11 @@ make_program <- function(program_date) {
 ```
 
 ::: {.panel-tabset}
-### Wednesday 25th
+<!-- ### Wednesday 25th -->
 
-```{r}
-make_program("25/11/2026")
-```
+<!-- ```{r} -->
+<!-- make_program("25/11/2026") -->
+<!-- ``` -->
 
 ### Thursday 26th
 
